@@ -30,13 +30,13 @@ figcaption, table caption
   font-weight: normal
 
 .banner-principal__row .banner-principal__img
-  width: 500px !important
+  width: 580px !important
   @media screen and (max-width: $bp-max-xl)
     width: 400px !important
 
 .banner-interno__fondo
   background-image: url("../assets/curso/banner_interno.png") !important
-  background-color: $color-primario !important
+  background-color: #EDF2FD !important
 .banner-principal .tarjeta
   @media screen and (max-width: $bp-max-md)
     background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
@@ -45,3 +45,69 @@ figcaption, table caption
 
 .text-end 
     text-align: left !important
+  
+.barra-avance__boton--regresar span
+  color: white !important
+
+//////////Background_Color///////////
+.bg-color
+  &-1
+    background-color: #F0F3FD !important
+  &-2
+    background-color: #FFE69B
+  &-3
+    background-color: #D5D1E2
+  &-white
+    background-color: white !important
+    border: 1px solid $lightest-gray
+  &-secundario
+    background-color: $color-secundario !important
+  &-sintesis
+    background-color: #F6F6F6
+
+///////Full Width Background///////////////////
+.bg-full-width
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+.bg-full-width-2
+  background-size: contain
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+
+///////////////fondos/////////////////
+.bg-fondo
+  &-1
+    background-image: url("../assets/curso/common/bg1.svg") !important
+    background-position: top
+    background-size: cover
+  &-2
+    background-image: url("../assets/curso/common/bg2.png") !important
+    background-position: bottom
+    background-size: cover
+  &-3
+    background-image: url("../assets/curso/common/bg3.png") !important
+    background-position: bottom
+    background-size: cover
+  &-4
+    background-image: url("../assets/curso/common/bg4.png") !important
+    background-position: bottom
+    background-size: cover
+  &-5
+    background-image: url("../assets/curso/common/bg5.svg") !important
+    background-position: bottom
+    background-size: cover
+  &-slider
+    //background-image: url("../assets/bg/bg-slider.png") !important
+    background-position: bottom
+
+.tarjeta-avatar-b__img 
+    min-width: 10%

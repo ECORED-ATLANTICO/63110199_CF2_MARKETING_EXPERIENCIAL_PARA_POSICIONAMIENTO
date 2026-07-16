@@ -2,9 +2,16 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum.
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-3.mb-3.mb-lg-0
+        figure
+          img(src="@/assets/curso/1.png", data-aos="zoom-in")
+      .col-lg-9
+        p El componente formativo Estrategia experiencial ofrece al aprendiz herramientas conceptuales y aplicadas para comprender cómo se diseñan y gestionan las experiencias en el marketing moderno. A través del análisis de proveedores de experiencia, matrices experienciales y dominios de interacción, se fortalece la capacidad para estructurar experiencias coherentes que respondan a las necesidades del consumidor y a los objetivos estratégicos de la organización en entornos competitivos.
+        .bg-fondo-1.tarjeta.px-5.py-4
+          p.mb-0 Asimismo, el componente integra el uso del storytelling como recurso para generar conexión emocional, junto con la aplicación de indicadores de gestión que permiten medir el impacto de las estrategias implementadas. Esta integración facilita la toma de decisiones informadas, orientadas a la mejora continua de la experiencia del cliente, contribuyendo al fortalecimiento del posicionamiento y la fidelización en diferentes contextos empresariales actuales.
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-lg-12.mb-5.bgs.p-4.brad
         figure
           img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
       .col-auto

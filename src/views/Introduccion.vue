@@ -20,13 +20,18 @@
           .col-lg-7
             .bg-color-1.px-5.py-4
               p.mb-0 El componente formativo aborda el marketing experiencial desde una perspectiva estratégica, enfocándose en la comprensión de los elementos que permiten diseñar, gestionar y evaluar experiencias significativas para el consumidor. 
-        
-        .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-up")
-          .tarjeta-avatar-b__img
-            img(src='@/assets/curso/common/1.png' alt='AvatarTop')
-          .tarjeta.bg-fondo-2.h-100
-            .p-5
-              p.mb-0 Este componente es fundamental en la formación del aprendiz, ya que fortalece su capacidad para interpretar el comportamiento del cliente y desarrollar propuestas de valor centradas en la experiencia.
+       
+        .bg-fondo-7.tarjeta.px-4
+          .row.justify-content-center.align-items-center
+            .col-auto.mb-lg-0
+              figure
+                img.d-none.d-lg-flex(src="@/assets/curso/common/1.png", data-aos="zoom-in")
+            .col-lg.p-4.p-lg-0
+              p.mb-0(data-aos="fade-right") Este componente es fundamental en la formación del aprendiz, ya que fortalece su capacidad para interpretar el comportamiento del cliente y desarrollar propuestas de valor centradas en la experiencia.
+            .col-auto.mb-lg-0
+              figure
+                img.d-none.d-lg-flex(src="@/assets/curso/common/5.svg", data-aos="zoom-in")
+
     
     .bg-fondo-5.tarjeta.px-5.py-4
       p.mb-0 Su desarrollo se llevará a cabo mediante el análisis de proveedores de experiencia, la aplicación de matrices experienciales, la comprensión de los dominios de interacción, el uso del storytelling y la interpretación de indicadores de gestión. A través de ejemplos aplicados y herramientas prácticas, el aprendiz podrá integrar estos conocimientos para diseñar estrategias coherentes que impacten la percepción, el posicionamiento y la fidelización del consumidor.

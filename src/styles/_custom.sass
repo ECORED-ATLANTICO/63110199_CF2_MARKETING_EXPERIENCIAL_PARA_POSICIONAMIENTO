@@ -2,13 +2,13 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 61%
+    right: 24%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 46%
+    right: 55%
 
 @keyframes float1
   0%
@@ -30,7 +30,7 @@ figcaption, table caption
   font-weight: normal
 
 .banner-principal__row .banner-principal__img
-  width: 580px !important
+  width: 480px !important
   @media screen and (max-width: $bp-max-xl)
     width: 400px !important
 
@@ -57,6 +57,20 @@ figcaption, table caption
     background-color: #FFE69B
   &-3
     background-color: #D5D1E2
+  &-4
+    background-color: #DFEFFF
+  &-5
+    color: #842EAE !important
+  &-6
+    background-color: #DDFAF1 !important
+  &-7
+    border-color: #FCA625 !important
+  &-8
+    background-color: #FCA625 !important
+  &-9
+    background-color: #FDF3FF !important
+  &-10
+    background: linear-gradient(90deg, rgba(255, 246, 232, 1) 0%, rgba(246, 254, 252, 1) 100%);
   &-white
     background-color: white !important
     border: 1px solid $lightest-gray
@@ -105,9 +119,90 @@ figcaption, table caption
     background-image: url("../assets/curso/common/bg5.svg") !important
     background-position: bottom
     background-size: cover
+  &-6
+    background-image: url("../assets/curso/common/bg6.png") !important
+    background-position: bottom
+    background-size: cover
+  &-7
+    background-image: url("../assets/curso/common/bg7.png") !important
+    background-position: bottom
+    background-size: cover
+  &-interno
+    background-image: url("../assets/curso/common/bg-fondo.png") !important
+    background-position: bottom
+  &-podcast
+    background-image: url("../assets/curso/common/bg-podcast.png") !important
+    background-position: bottom
+    background-size: cover
+  &-avt
+    background-image: url("../assets/curso/common/bg-avt.png") !important
+    background-position: bottom
+    background-size: cover
+    border-color: 3px #AED6FF
   &-slider
-    //background-image: url("../assets/bg/bg-slider.png") !important
+    background-image: url("../assets/curso/common/bg-slider.png") !important
     background-position: bottom
 
 .tarjeta-avatar-b__img 
     min-width: 10%
+  
+.bg-title
+  background-image: url("../assets/curso/common/bg-title.png")
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: right top
+  width: fit-content
+  position: relative
+  &::after
+    content: url('../assets/curso/common/corazon.png')
+    position: absolute
+    bottom: -20px
+    right: 10px
+  
+/////////IMG_100%_CAJON_MEDIO/////////
+.pst
+  position: relative
+  z-index: 2
+.banner-text
+  background-color: white
+  border-radius: 10px
+  padding: 20px 30px
+  margin-top: -60px
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  padding: 20px;
+  @media screen and (max-width: $bp-max-sm)
+    margin-top: -10px
+
+/////////////ACORDION/////////////
+.acordion__accion__btn--b
+  background-color: $color-acento-botones !important
+  color: white
+.acordion__activo
+  background-color: #F7FBFF !important
+.acordion_titulo
+  color: #fff !important
+.acordion__titulo 
+  h3
+    color: $color-sistema-texto  !important
+.acordion__activo
+  .acordion__titulo 
+    h3
+      color: $color-sistema-texto !important
+    
+///////////////TABLAS///////////////////
+.tbl 
+  table td
+    text-align: start !important
+  th, td, table thead th, .tabla-a th 
+    border: 2px solid #B5B5B5
+  table
+    table-layout: auto
+  
+//////////////CUSTON SLYDER-A////////
+.slyder-a__bullets__item 
+  background-color: #FEE0B3
+  border: #FEE0B3
+.slyder-a__bullets__item--active
+  background-color: #FCA625
+.slyder-a__btn--atrs, .slyder-a__btn--sigt
+  background-color: #842EAE

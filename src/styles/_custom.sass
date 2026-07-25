@@ -138,7 +138,10 @@ figcaption, table caption
     background-image: url("../assets/curso/common/bg-avt.png") !important
     background-position: bottom
     background-size: cover
-    border-color: 3px #AED6FF
+  &-carrus
+    background-image: url("../assets/curso/common/bg-carrus.png") !important
+    background-position: bottom
+    background-size: cover
   &-slider
     background-image: url("../assets/curso/common/bg-slider.png") !important
     background-position: bottom
@@ -206,3 +209,29 @@ figcaption, table caption
   background-color: #FCA625
 .slyder-a__btn--atrs, .slyder-a__btn--sigt
   background-color: #842EAE
+
+//////// Card hover ////////////
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      background-color: #F7FBFF
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.2rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #DFEFFF
+    text-align: center
+
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em

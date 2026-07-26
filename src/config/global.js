@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Estrategia experiencial',
     Description:
-      'Este componente aborda los elementos estratégicos del marketing experiencial, incluyendo proveedores de experiencia, matriz experiencial, dominios de experiencia, storytelling e indicadores de gestión, permitiendo al aprendiz diseñar, implementar y evaluar experiencias coherentes que influyen en la percepción, el comportamiento y la relación del consumidor con la marca en diferentes contextos organizacionales.',
+      'Este componente aborda los elementos estratégicos del <em>marketing</em> experiencial, incluyendo proveedores de experiencia, matriz experiencial, dominios de experiencia, <em>storytelling</em> e indicadores de gestión, permitiendo al aprendiz diseñar, implementar y evaluar experiencias coherentes que influyen en la percepción, el comportamiento y la relación del consumidor con la marca en diferentes contextos organizacionales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -212,7 +212,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/63110199_CF02_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -402,7 +402,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable Nacional Ecosistema de Recursos Educativos Digitales (RED) - Profesional 06',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturistico - Regional Santander',
         },
         {
@@ -416,9 +416,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Nicolas Cruz Rios ',
+          cargo: 'Experto temático ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico   ',
+        },
+        {
+          nombre: 'María Fernanda Morales Angulo ',
+          cargo: 'Evaluador instruccional ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico   ',
         },
       ],
     },
@@ -426,19 +431,24 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jesus Antonio Vecino Valero ',
+          cargo: 'Diseñador de contenidos digitales ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Carlos Andrés Diaz Pinto ',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Alexander Rafael Acosta Bedoya ',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño ',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
         },
       ],
     },
@@ -446,14 +456,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Luz Karime Amaya Cabra ',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Laura Daniela Burgos Rueda  ',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
+        },
+        {
+          nombre: 'Jonathan Adié Villafañe ',
+          cargo: 'Validador y vinculador de recursos educativos digitales ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
+        },
+        {
+          nombre: 'Karine Isabel Ospino Fritz ',
+          cargo: 'Validador y vinculador de recursos educativos digitales ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
         },
       ],
     },

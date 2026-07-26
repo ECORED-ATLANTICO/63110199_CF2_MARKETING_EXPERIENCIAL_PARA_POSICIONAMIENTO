@@ -16,14 +16,14 @@
           .col-lg-8 
             p Los proveedores de experiencia representan los elementos estratégicos mediante los cuales las marcas diseñan, comunican y ejecutan experiencias significativas para el consumidor. 
             .tarjeta.bg-fondo-6.h-100.p-4
-              p.mb-0 Este capítulo permite comprender cómo diferentes factores influyen en la construcción de dichas experiencias, su desarrollo se abordará desde una perspectiva aplicada, analizando cada proveedor y su impacto en la percepción del cliente, mediante ejemplos empresariales que evidencian su relevancia en el marketing experiencial actual.
+              p.mb-0 Este capítulo permite comprender cómo diferentes factores influyen en la construcción de dichas experiencias, su desarrollo se abordará desde una perspectiva aplicada, analizando cada proveedor y su impacto en la percepción del cliente, mediante ejemplos empresariales que evidencian su relevancia en el <em>marketing</em> experiencial actual.
         
         separador
         
         #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 1.1 Comunicación
         
-        p La comunicación en el marketing experiencial constituye un proveedor fundamental para la construcción de experiencias, ya que permite transmitir mensajes que influyen en la percepción del consumidor, a diferencia del enfoque tradicional, la comunicación no se limita a informar, sino que busca generar interacción y conexión emocional, utilizando distintos canales y formatos que potencien la experiencia de marca.
+        p La comunicación en el <em>marketing</em> experiencial constituye un proveedor fundamental para la construcción de experiencias, ya que permite transmitir mensajes que influyen en la percepción del consumidor, a diferencia del enfoque tradicional, la comunicación no se limita a informar, sino que busca generar interacción y conexión emocional, utilizando distintos canales y formatos que potencien la experiencia de marca.
 
         .row.justify-content-center.align-items-center.mb-3
           .col-lg-3.mb-3.mb-lg-0
@@ -45,7 +45,7 @@
               p.mb-0(data-aos="fade-right") <b>Ejemplo aplicado</b>. Nike utiliza campañas que no solo promocionan productos, sino que comunican valores como superación y motivación, generando experiencias que trascienden lo funcional. Esto demuestra que la comunicación, cuando se diseña estratégicamente, se convierte en un elemento clave para influir en el comportamiento del consumidor y en su conexión con la marca.
     
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
-      h3.mb-0.pe-4.ps-2 Rol de la comunicación en el marketing experiencial
+      h3.mb-0.pe-4.ps-2 Rol de la comunicación en el <em>marketing</em> experiencial
     
     img(src="@/assets/curso/tema1/3.png", alt="Imagen decorativa")
     
@@ -175,7 +175,7 @@
         figure
           img(src="@/assets/curso/tema1/8.png", data-aos="zoom-in")
       .col-lg-8 
-        p La identidad de marca representa el conjunto de elementos visuales, simbólicos y conceptuales que definen cómo una organización desea ser percibida por el consumidor. En el marketing experiencial, la identidad no solo se comunica, sino que se vive a través de cada interacción, convirtiéndose en un proveedor clave de la experiencia.
+        p La identidad de marca representa el conjunto de elementos visuales, simbólicos y conceptuales que definen cómo una organización desea ser percibida por el consumidor. En el <em>marketing</em> experiencial, la identidad no solo se comunica, sino que se vive a través de cada interacción, convirtiéndose en un proveedor clave de la experiencia.
         .tarjeta.bg-fondo-6.h-100.p-4
           p.mb-0 La identidad de marca debe mantenerse coherente en todos los puntos de contacto, asegurando que los valores, el estilo y el mensaje sean consistentes, esta coherencia permite que el consumidor reconozca la marca y construya una percepción clara, lo cual es fundamental para generar confianza y diferenciación en el mercado.
 
@@ -240,17 +240,17 @@
       h2 1.3 Producto
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-3.mb-lg-0.order-lg-2
+      .col-md-8.col-lg-3.order-2
         figure
           img(src="@/assets/curso/tema1/9.png", data-aos="zoom-in")
-      .col-lg-9.order-lg-1
+      .col-lg-9.order-1.mb-3.mb-lg-0
         .row.mb-3.justify-content-center.align-items-center
           .col-lg-5.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema1/10.png", data-aos="zoom-in")
           .col-lg-7
             .bg-color-1.px-5.py-4
-              p.mb-0 El producto en el marketing experiencial trasciende su función básica para convertirse en un generador de experiencias significativas, no se limita a satisfacer una necesidad funcional, sino que incorpora atributos sensoriales, emocionales y simbólicos que influyen en la percepción del consumidor, de esta manera, el producto se integra como un elemento activo dentro de la experiencia de marca.
+              p.mb-0 El producto en el <em>marketing</em> experiencial trasciende su función básica para convertirse en un generador de experiencias significativas, no se limita a satisfacer una necesidad funcional, sino que incorpora atributos sensoriales, emocionales y simbólicos que influyen en la percepción del consumidor, de esta manera, el producto se integra como un elemento activo dentro de la experiencia de marca.
        
         .bg-fondo-7.tarjeta.px-4
           .row.justify-content-center.align-items-center
@@ -265,10 +265,10 @@
 
     
     .bg-fondo-5.tarjeta.px-5.py-4.mb-5
-      p.mb-0 Starbucks, sus productos no solo cumplen una función de consumo, sino que están diseñados para generar una experiencia a través de su presentación, personalización y ritual de consumo, esto demuestra cómo el producto puede convertirse en un elemento diferenciador dentro del marketing experiencial.
+      p.mb-0 Starbucks, sus productos no solo cumplen una función de consumo, sino que están diseñados para generar una experiencia a través de su presentación, personalización y ritual de consumo, esto demuestra cómo el producto puede convertirse en un elemento diferenciador dentro del <em>marketing</em> experiencial.
 
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
-      h3.mb-0.pe-4.ps-2 Rol del producto en el marketing experiencial
+      h3.mb-0.pe-4.ps-2 Rol del producto en el <em>marketing</em> experiencial
     
     .row.mb-5.justify-content-center
       .col-md-6.col-xl-3.mb-4.mb-xl-0
@@ -303,7 +303,7 @@
             b Simbólico
           p.text-center Representar valores y significados que fortalecen la identidad de la marca.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center
       .col-lg-10
         .bg-fondo-3.tarjeta.ps-lg-5
           .row.justify-content-center.align-items-center
@@ -321,7 +321,7 @@
       h2 1.4 Empleados
 
     .row.mb-3.justify-content-center.align-items-center
-      .col-lg-2.mb-3.mb-lg-0
+      .col-md-8.col-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/11.png", data-aos="zoom-in")
       .col-lg-10
@@ -355,7 +355,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/12.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El entorno digital se ha consolidado como un proveedor clave de experiencias en el marketing experiencial, al permitir la interacción constante entre la marca y el consumidor a través de plataformas tecnológicas, este entorno no solo facilita el acceso a la información, sino que también posibilita la creación de experiencias dinámicas, personalizadas y participativas que influyen en la percepción del cliente.
+        p.mb-0 El entorno digital se ha consolidado como un proveedor clave de experiencias en el <em>marketing</em> experiencial, al permitir la interacción constante entre la marca y el consumidor a través de plataformas tecnológicas, este entorno no solo facilita el acceso a la información, sino que también posibilita la creación de experiencias dinámicas, personalizadas y participativas que influyen en la percepción del cliente.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0.order-lg-2
@@ -375,7 +375,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-3 Concepto de entorno digital
-                  p.mb-0 Lo invitamos a consultar el siguiente recurso educativo para fortalecer sus conocimientos. Éste presenta el concepto de entorno digital dentro del contexto del marketing.
+                  p.mb-0 Lo invitamos a consultar el siguiente recurso educativo para fortalecer sus conocimientos. Éste presenta el concepto de entorno digital dentro del contexto del <em>marketing</em>.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=CwqginzSkeU " target="_blank")
                     span Ir al video
@@ -396,16 +396,16 @@
     separador
     
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.1 Cobranding
+      h2 1.1 <em>Cobranding</em>
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/14.png", data-aos="zoom-in")
       .col-lg-8 
-        p El cobranding es una estrategia mediante la cual dos o más marcas se asocian para crear una experiencia conjunta que potencie el valor percibido por el consumidor, en el marketing experiencial, esta práctica permite combinar fortalezas, generar nuevas propuestas y ofrecer experiencias diferenciadas que enriquecen la interacción con el cliente.
+        p El <em>cobranding</em> es una estrategia mediante la cual dos o más marcas se asocian para crear una experiencia conjunta que potencie el valor percibido por el consumidor, en el <em>marketing</em> experiencial, esta práctica permite combinar fortalezas, generar nuevas propuestas y ofrecer experiencias diferenciadas que enriquecen la interacción con el cliente.
         .tarjeta.bg-fondo-6.h-100.p-4
-          p.mb-0 El cobranding debe basarse en la coherencia entre las marcas participantes, asegurando que compartan valores, público objetivo y objetivos comunes, esta alineación es fundamental para evitar contradicciones en la experiencia y garantizar que el resultado sea percibido como auténtico y relevante por el consumidor.
+          p.mb-0 El <em>cobranding</em> debe basarse en la coherencia entre las marcas participantes, asegurando que compartan valores, público objetivo y objetivos comunes, esta alineación es fundamental para evitar contradicciones en la experiencia y garantizar que el resultado sea percibido como auténtico y relevante por el consumidor.
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -426,7 +426,7 @@
                 img.d-none.d-lg-flex(src="@/assets/curso/common/1.png", data-aos="zoom-in")
             .col-lg.p-4.p-lg-0
               h5 Clave estratégica
-              p.mb-0(data-aos="fade-right") El cobranding debe generar experiencias coherentes y complementarias entre marcas.
+              p.mb-0(data-aos="fade-right") El <em>cobranding</em> debe generar experiencias coherentes y complementarias entre marcas.
             .col-auto.mb-lg-0
               figure
                 img.d-none.d-lg-flex(src="@/assets/curso/common/5.svg", data-aos="zoom-in")
@@ -441,7 +441,7 @@
         figure
           img(src="@/assets/curso/tema1/15.png", data-aos="zoom-in")
       .col-lg-8 
-        p El punto de venta constituye un proveedor clave de experiencia en el marketing experiencial, ya que es el espacio donde el consumidor interactúa directamente con la marca, el producto y el entorno, este lugar no solo cumple una función comercial, sino que se convierte en un escenario donde se construyen percepciones, emociones y decisiones de compra. 
+        p El punto de venta constituye un proveedor clave de experiencia en el <em>marketing</em> experiencial, ya que es el espacio donde el consumidor interactúa directamente con la marca, el producto y el entorno, este lugar no solo cumple una función comercial, sino que se convierte en un escenario donde se construyen percepciones, emociones y decisiones de compra. 
         .tarjeta.bg-fondo-1.h-100.p-4
           p.mb-0 El punto de venta debe diseñarse como un entorno experiencial que integre elementos sensoriales, visuales y de interacción, aspectos como la distribución del espacio, la iluminación, la ambientación y la disposición del producto influyen en la experiencia del cliente, favoreciendo su permanencia y aumentando la probabilidad de compra.
     

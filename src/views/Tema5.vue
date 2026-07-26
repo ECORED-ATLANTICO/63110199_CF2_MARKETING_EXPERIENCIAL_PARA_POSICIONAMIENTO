@@ -5,22 +5,22 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Indicadores de gestión de mercadeo en el marketing experiencial
+      h1 Indicadores de gestión de mercadeo en el <em>marketing</em> experiencial
     
     .bg-full-width.bg-fondo-interno
       .px-4.px-lg-5
-        .row.justify-content-center.align-items-center.mb-5
-          .col-lg-3.mb-3.mb-lg-0.order-lg-2
+        .row.justify-content-center.align-items-center
+          .col-md-8.col-lg-3.order-2
             figure
               img(src="@/assets/curso/tema5/1.png", data-aos="zoom-in")
-          .col-lg-9.order-lg-1
+          .col-lg-9.order-1.mb-3.mb-lg-0
             .row.mb-3.justify-content-center.align-items-center
               .col-lg-5.mb-3.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema5/2.png", data-aos="zoom-in")
               .col-lg-7
                 .bg-color-1.px-5.py-4
-                  p.mb-0 Los indicadores de gestión en el marketing experiencial permiten medir el impacto de las estrategias en la percepción, el comportamiento y la relación del consumidor con la marca.  
+                  p.mb-0 Los indicadores de gestión en el <em>marketing</em> experiencial permiten medir el impacto de las estrategias en la percepción, el comportamiento y la relación del consumidor con la marca.  
           
             .bg-fondo-7.tarjeta.px-4
               .row.justify-content-center.align-items-center
@@ -42,19 +42,19 @@
         
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-10(data-aos="fade-up")
-            p.banner-text Los indicadores de gestión en marketing experiencial se definen como herramientas que permiten medir y evaluar el impacto de las experiencias diseñadas por la marca en el consumidor, estos indicadores facilitan la interpretación de resultados, permitiendo analizar cómo las estrategias influyen en la percepción, la interacción y el comportamiento del cliente.
+            p.banner-text Los indicadores de gestión en <em>marketing</em> experiencial se definen como herramientas que permiten medir y evaluar el impacto de las experiencias diseñadas por la marca en el consumidor, estos indicadores facilitan la interpretación de resultados, permitiendo analizar cómo las estrategias influyen en la percepción, la interacción y el comportamiento del cliente.
         
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-4.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema5/4.png", data-aos="zoom-in")
           .col-lg-8 
-            p Los indicadores permiten transformar la experiencia en datos medibles, facilitando la toma de decisiones orientadas a mejorar la efectividad de las acciones de marketing, esto implica identificar qué aspectos de la experiencia generan valor y cuáles requieren ajustes. 
+            p Los indicadores permiten transformar la experiencia en datos medibles, facilitando la toma de decisiones orientadas a mejorar la efectividad de las acciones de <em>marketing</em>, esto implica identificar qué aspectos de la experiencia generan valor y cuáles requieren ajustes. 
             .tarjeta.bg-fondo-6.h-100.p-4
               p.mb-0 Un ejemplo aplicado es Amazon, que mide la experiencia del cliente a través de indicadores como satisfacción, tiempo de respuesta y tasa de recompra, optimizando continuamente sus procesos.
     
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
-      h3.mb-0.pe-4.ps-2 Proceso de indicadores de gestión en el marketing experiencial
+      h3.mb-0.pe-4.ps-2 Proceso de indicadores de gestión en el <em>marketing</em> experiencial
     
     .bg-fondo-slider.tarjeta.mb-5
       .p-4.p-lg-5
@@ -65,7 +65,7 @@
                 img(src='@/assets/curso/tema5/5.png', alt='Imagen de acompañamiento')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Medición: recolección y evaluación de información
-              p La medición consiste en recopilar datos sobre el desempeño de las estrategias de marketing experiencial mediante indicadores previamente definidos. Esta información permite conocer el comportamiento de variables como la satisfacción del cliente, la participación, la interacción o la fidelización, proporcionando una base objetiva para evaluar los resultados obtenidos y orientar las siguientes etapas del proceso.
+              p La medición consiste en recopilar datos sobre el desempeño de las estrategias de <em>marketing</em> experiencial mediante indicadores previamente definidos. Esta información permite conocer el comportamiento de variables como la satisfacción del cliente, la participación, la interacción o la fidelización, proporcionando una base objetiva para evaluar los resultados obtenidos y orientar las siguientes etapas del proceso.
               h5 Idea clave
               p La medición proporciona información objetiva para conocer el desempeño de las estrategias implementadas.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
@@ -83,7 +83,7 @@
                 img(src='@/assets/curso/tema5/7.png', alt='Imagen de acompañamiento')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Decisión: definición de acciones de mejora
-              p A partir de los resultados del análisis, la organización establece las acciones necesarias para fortalecer las estrategias de marketing experiencial. Las decisiones pueden orientarse al ajuste de procesos, la optimización de experiencias, la incorporación de nuevas acciones o la redefinición de objetivos, buscando generar mayor valor para el cliente y para la organización.
+              p A partir de los resultados del análisis, la organización establece las acciones necesarias para fortalecer las estrategias de <em>marketing</em> experiencial. Las decisiones pueden orientarse al ajuste de procesos, la optimización de experiencias, la incorporación de nuevas acciones o la redefinición de objetivos, buscando generar mayor valor para el cliente y para la organización.
               h5 Idea clave
               p Las decisiones estratégicas deben fundamentarse en el análisis de información confiable y pertinente.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
@@ -97,7 +97,7 @@
               p El seguimiento continuo permite evaluar resultados y mantener un proceso permanente de mejora.
     
     .bg-fondo-5.tarjeta.px-5.py-4
-      p.mb-0 La medición, el análisis, la decisión y el control conforman un proceso continuo que permite evaluar el desempeño de las estrategias de marketing experiencial y orientar acciones de mejora. La aplicación sistemática de este ciclo fortalece la toma de decisiones, optimiza los resultados y contribuye a generar mayor valor para la organización y sus clientes.
+      p.mb-0 La medición, el análisis, la decisión y el control conforman un proceso continuo que permite evaluar el desempeño de las estrategias de <em>marketing</em> experiencial y orientar acciones de mejora. La aplicación sistemática de este ciclo fortalece la toma de decisiones, optimiza los resultados y contribuye a generar mayor valor para la organización y sus clientes.
     
     separador
     
@@ -111,13 +111,13 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema5/9.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Los objetivos de los indicadores de gestión en marketing experiencial se orientan a evaluar el desempeño de las estrategias implementadas, permitiendo identificar su impacto en el consumidor, estos objetivos incluyen medir la satisfacción, la fidelización, la interacción y el posicionamiento de la marca. 
+            p.mb-0 Los objetivos de los indicadores de gestión en <em>marketing</em> experiencial se orientan a evaluar el desempeño de las estrategias implementadas, permitiendo identificar su impacto en el consumidor, estos objetivos incluyen medir la satisfacción, la fidelización, la interacción y el posicionamiento de la marca. 
     
     .bg-fondo-4.tarjeta.px-5.py-4.mb-5
-      p.mb-0 Los indicadores permiten alinear las acciones de marketing con los resultados esperados, facilitando la optimización de las experiencias diseñadas, esto implica establecer métricas claras que permitan evaluar el cumplimiento de los objetivos organizacionales.
+      p.mb-0 Los indicadores permiten alinear las acciones de <em>marketing</em> con los resultados esperados, facilitando la optimización de las experiencias diseñadas, esto implica establecer métricas claras que permitan evaluar el cumplimiento de los objetivos organizacionales.
     
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
-      h3.mb-0.pe-4.ps-2 Objetivos de los indicadores de gestión en marketing experiencial 
+      h3.mb-0.pe-4.ps-2 Objetivos de los indicadores de gestión en <em>marketing</em> experiencial 
     
     .row.mb-5.align-items-center.justify-content-center
       .col-md-8.col-lg-3.mb-3.mb-lg-0
@@ -143,7 +143,7 @@
             p.mb-0 La percepción refleja el significado que el consumidor atribuye a la marca.
     
     .bg-fondo-5.tarjeta.px-5.py-4.mb-5
-      p.mb-0 Los objetivos de los indicadores de gestión permiten evaluar de manera integral el desempeño de las estrategias de marketing experiencial. Su aplicación facilita comprender la experiencia del cliente, medir la lealtad, analizar la participación y evaluar la percepción de la marca, proporcionando información que fortalece la toma de decisiones y la mejora continua.
+      p.mb-0 Los objetivos de los indicadores de gestión permiten evaluar de manera integral el desempeño de las estrategias de <em>marketing</em> experiencial. Su aplicación facilita comprender la experiencia del cliente, medir la lealtad, analizar la participación y evaluar la percepción de la marca, proporcionando información que fortalece la toma de decisiones y la mejora continua.
     
     .row.justify-content-center
       .col-lg-10
@@ -169,7 +169,7 @@
         figure
           img(src="@/assets/curso/tema5/11.png", data-aos="zoom-in")
       .col-lg-8 
-        p Las clases de indicadores en el marketing experiencial se refieren a los diferentes tipos de métricas utilizadas para evaluar el desempeño de las estrategias, estas clases permiten analizar distintos aspectos de la experiencia del cliente, incluyendo resultados cuantitativos y cualitativos que reflejan su percepción y comportamiento.
+        p Las clases de indicadores en el <em>marketing</em> experiencial se refieren a los diferentes tipos de métricas utilizadas para evaluar el desempeño de las estrategias, estas clases permiten analizar distintos aspectos de la experiencia del cliente, incluyendo resultados cuantitativos y cualitativos que reflejan su percepción y comportamiento.
         .tarjeta.bg-fondo-6.h-100.p-4
           p.mb-0 Los indicadores pueden clasificarse en indicadores de eficiencia, eficacia y experiencia, los primeros miden el uso de recursos, los segundos evalúan el cumplimiento de objetivos y los terceros analizan la percepción del cliente frente a la experiencia vivida.
     
@@ -227,7 +227,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text La interpretación de los indicadores en marketing experiencial consiste en el análisis de los datos obtenidos para comprender el impacto de las estrategias en el consumidor, este proceso permite transformar la información en conocimiento útil para la toma de decisiones.
+        p.banner-text La interpretación de los indicadores en <em>marketing</em> experiencial consiste en el análisis de los datos obtenidos para comprender el impacto de las estrategias en el consumidor, este proceso permite transformar la información en conocimiento útil para la toma de decisiones.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -246,8 +246,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-3 Interpretación de indicadores en marketing experiencial
-                  p.mb-0 Lo invitamos a consultar el anexo del caso de una tienda de ropa que implementa una estrategia de marketing experiencial en su punto de venta.
+                  h4.mb-3 Interpretación de indicadores en <em>marketing</em> experiencial
+                  p.mb-0 Lo invitamos a consultar el anexo del caso de una tienda de ropa que implementa una estrategia de <em>marketing</em> experiencial en su punto de venta.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo1.pdf')" target="_blank" type="application/pdf")
                     span Ir al anexo

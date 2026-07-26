@@ -22,7 +22,7 @@
               img(src="@/assets/curso/tema2/2.png", data-aos="zoom-in")
           .col-lg-8.order-lg-1
             .bg-fondo-4.tarjeta.px-5.py-4
-              p.mb-0 Este capítulo aborda su importancia en el diseño del marketing experiencial, permitiendo comprender cómo se organizan sus componentes. Su desarrollo se realizará desde un enfoque aplicado, integrando elementos conceptuales y prácticos que faciliten la construcción de experiencias coherentes, relevantes y alineadas con los objetivos estratégicos de posicionamiento de marca.
+              p.mb-0 Este capítulo aborda su importancia en el diseño del <em>marketing</em> experiencial, permitiendo comprender cómo se organizan sus componentes. Su desarrollo se realizará desde un enfoque aplicado, integrando elementos conceptuales y prácticos que faciliten la construcción de experiencias coherentes, relevantes y alineadas con los objetivos estratégicos de posicionamiento de marca.
 
         separador
         
@@ -75,9 +75,9 @@
         p.mb-5 A continuación, se presentan ejemplos de matrices experienciales que permiten visualizar su aplicación en contextos reales.
 
         .row.justify-content-center
-          .col-lg-10
+          .col-xl-10
             AcordionA(tipo="b" clase-tarjeta="tarjeta bg-color-4")
-              div(titulo="Ejemplo 1. Tienda de ropa (Retail)")
+              div(titulo="Ejemplo 1. Tienda de ropa (<em>Retail</em>)")
                 .titulo-sexto.color-acento-contenido
                   h5 Tabla 3.
                   span Matriz experiencial en punto de venta
@@ -122,18 +122,18 @@
                     ul.lista-ul--color.ms-3
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-5
-                        | <b>Cada fila</b> = momento real.
+                        p.mb-0 <b>Cada fila</b> = momento real.
                   .col-lg-4.mb-3.mb-lg-0
                     ul.lista-ul--color.ms-3
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-5
-                        | <b>Cada columna</b> = tipo de experiencia.
+                        p.mb-0 <b>Cada columna</b> = tipo de experiencia.
                   .col-lg-4.mb-3.mb-lg-0
                     ul.lista-ul--color.ms-3
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-5
-                        | <b>Resultado</b> = diseño completo de experiencia.
-              div(titulo="Ejemplo 2: Plataforma digital (E-commerce)")
+                        p.mb-0 <b>Resultado</b> = diseño completo de experiencia.
+              div(titulo="Ejemplo 2: Plataforma digital (<em>E-commerce</em>)")
                 .titulo-sexto.color-acento-contenido
                   h5 Tabla 4.
                   span Matriz experiencial en entorno digital
@@ -176,7 +176,7 @@
     .row.justify-content-center
       .col-lg-10        
         .bg-fondo-7.tarjeta.px-4
-          .row.mb-5.justify-content-center.align-items-center
+          .row.justify-content-center.align-items-center
             .col-auto.mb-lg-0
               figure
                 img.d-none.d-lg-flex(src="@/assets/curso/common/1.png", data-aos="zoom-in")
@@ -193,17 +193,17 @@
       h2 2.3 Características
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-3.mb-lg-0.order-lg-2
+      .col-md-8.col-lg-3.order-2
         figure
           img(src="@/assets/curso/tema2/7.png", data-aos="zoom-in")
-      .col-lg-9.order-lg-1
+      .col-lg-9.order-1.mb-3.mb-lg-0
         .row.mb-3.justify-content-center.align-items-center
           .col-lg-5.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema2/8.png", data-aos="zoom-in")
           .col-lg-7
             .bg-color-1.px-5.py-4
-              p.mb-0 Las características de la matriz experiencial se orientan a su capacidad de integrar diferentes dimensiones del marketing experiencial en un solo esquema estratégico, esta herramienta se distingue por su enfoque holístico, permitiendo analizar la experiencia del cliente de manera integral, considerando factores sensoriales, emocionales, cognitivos y conductuales en conjunto. 
+              p.mb-0 Las características de la matriz experiencial se orientan a su capacidad de integrar diferentes dimensiones del <em>marketing</em> experiencial en un solo esquema estratégico, esta herramienta se distingue por su enfoque holístico, permitiendo analizar la experiencia del cliente de manera integral, considerando factores sensoriales, emocionales, cognitivos y conductuales en conjunto. 
        
         .bg-fondo-7.tarjeta.px-4
           .row.justify-content-center.align-items-center
@@ -246,7 +246,7 @@
                 img(src='@/assets/curso/tema2/11.png', alt='Imagen de acompañamiento')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Estratégica orientada a objetivos
-              p La matriz experiencial organiza la información para que las acciones de marketing respondan a objetivos claramente definidos. Su aplicación facilita alinear el diseño de experiencias con el posicionamiento de la marca, la fidelización de clientes y la generación de valor para la organización.
+              p La matriz experiencial organiza la información para que las acciones de <em>marketing</em> respondan a objetivos claramente definidos. Su aplicación facilita alinear el diseño de experiencias con el posicionamiento de la marca, la fidelización de clientes y la generación de valor para la organización.
               h5 Idea clave
               p Cada experiencia debe diseñarse con un propósito estratégico que contribuya al logro de los objetivos de la organización.
           .row.justify-content-center.align-items-center.p-3.p-lg-4

@@ -16,7 +16,7 @@
           .col-lg-8 
             p Los dominios de experiencia permiten comprender las diferentes dimensiones en las que el consumidor interactúa con la marca, configurando percepciones y vivencias significativas. 
             .tarjeta.bg-fondo-6.h-100.p-4
-              p.mb-0 Este capítulo aborda su importancia en el marketing experiencial, facilitando el análisis de cómo se estructuran dichas experiencias, su desarrollo se realizará desde un enfoque conceptual y aplicado, integrando principios y dimensiones que permiten diseñar experiencias coherentes, relevantes y alineadas con el comportamiento del consumidor.
+              p.mb-0 Este capítulo aborda su importancia en el <em>marketing</em> experiencial, facilitando el análisis de cómo se estructuran dichas experiencias, su desarrollo se realizará desde un enfoque conceptual y aplicado, integrando principios y dimensiones que permiten diseñar experiencias coherentes, relevantes y alineadas con el comportamiento del consumidor.
 
         separador
         
@@ -27,7 +27,7 @@
         
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-10(data-aos="fade-up")
-            p.banner-text Los dominios de experiencia se refieren a las distintas formas en que una experiencia puede ser percibida y vivida por el consumidor, integrando niveles de participación y conexión emocional, estos dominios permiten clasificar las experiencias según su naturaleza, facilitando su diseño y análisis dentro del marketing experiencial.
+            p.banner-text Los dominios de experiencia se refieren a las distintas formas en que una experiencia puede ser percibida y vivida por el consumidor, integrando niveles de participación y conexión emocional, estos dominios permiten clasificar las experiencias según su naturaleza, facilitando su diseño y análisis dentro del <em>marketing</em> experiencial.
         
         .row.justify-content-center.mb-3
           .col-lg-10
@@ -39,7 +39,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
                       h4.mb-3 Economía de la experiencia
-                      p.mb-0 Lo invitamos a consultar el siguiente recurso educativo para profundizar sobre la economía de la experiencia. En él se evidencia cómo las experiencias pueden variar según el nivel de participación del consumidor y su conexión emocional, elementos fundamentales para su diseño y análisis en el marketing experiencial.
+                      p.mb-0 Lo invitamos a consultar el siguiente recurso educativo para profundizar sobre la economía de la experiencia. En él se evidencia cómo las experiencias pueden variar según el nivel de participación del consumidor y su conexión emocional, elementos fundamentales para su diseño y análisis en el <em>marketing</em> experiencial.
                     .col-sm-auto
                       a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=1vbo3ukK_UE  " target="_blank")
                         span Ir al video
@@ -60,7 +60,7 @@
               p.mb-0(data-aos="fade-right") <b>Caso aplicado</b>. Un parque temático diseña experiencias donde el cliente observa espectáculos, participa en actividades y se involucra emocionalmente, integrando diferentes dominios de experiencia.
 
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
-      h3.mb-0.pe-4.ps-2 Dominios de la experiencia en el marketing experiencial
+      h3.mb-0.pe-4.ps-2 Dominios de la experiencia en el <em>marketing</em> experiencial
     
     .bg-fondo-slider.tarjeta.mb-5
       .p-4.p-lg-5
@@ -102,14 +102,14 @@
               h5 Idea clave
               p La percepción es el resultado de cómo el consumidor interpreta la experiencia que ha vivido.
     
-    .row.mb-5.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center
       .col-lg-4.mb-3.mb-lg-0.order-lg-2
         figure
           img(src="@/assets/curso/tema3/8.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
         p(data-aos="fade-right") La participación, la experiencia, la conexión y la percepción actúan de manera integrada para construir experiencias significativas que generan valor para el cliente y la marca. La gestión estratégica de estos dominios fortalece la relación con el consumidor, incrementa la satisfacción, favorece el posicionamiento y contribuye a la fidelización a largo plazo.    
         .bg-fondo-7.tarjeta.px-4
-          .row.mb-5.justify-content-center.align-items-center
+          .row.justify-content-center.align-items-center
             .col-auto.mb-lg-0
               figure
                 img.d-none.d-lg-flex(src="@/assets/curso/common/1.png", data-aos="zoom-in")
@@ -169,7 +169,7 @@
         .bg-fondo-4.tarjeta.px-5.py-4
           p.mb-0 Estos principios permiten guiar el diseño de experiencias que involucren al consumidor de manera integral, asegurando que cada interacción contribuya a la construcción de valor, la correcta aplicación de estos principios facilita la diferenciación y fortalece el posicionamiento de la marca.
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center
       .col-lg-10
         .bg-fondo-3.tarjeta.ps-lg-5
           .row.justify-content-center.align-items-center
@@ -187,10 +187,10 @@
       h2 3.3 Dimensiones
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-3.mb-lg-0.order-lg-2
+      .col-md-8.mb-lg-0.order-2
         figure
           img(src="@/assets/curso/tema3/10.png", data-aos="zoom-in")
-      .col-lg-9.order-lg-1
+      .col-lg-9.order-1.col-lg-3.mb-3
         .row.mb-3.justify-content-center.align-items-center
           .col-lg-5.mb-3.mb-lg-0
             figure
@@ -215,12 +215,12 @@
     
 
     .row.justify-content-center.align-items-center
-      .col-lg-9.order-lg-2
-        SlyderF(columnas="col-12 col-lg-6").p-4
+      .col-lg-9.order-2.mb-3.mb-lg-0
+        SlyderF(columnas="col-12 col-xl-6").p-3.p-lg-4
           .bg-fondo-carrus.tarjeta.p-4.h-100.box-shadow
             img(src='@/assets/curso/tema3/13.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
             h4.text-center.mb-4 Consumidor
-            p.text-center <b>Eje de la experiencia</b>: el consumidor ocupa el centro del marketing experiencial, ya que cada interacción, estímulo y punto de contacto influye en la forma en que vive, interpreta y recuerda la experiencia. Las dimensiones de la experiencia permiten comprender los diferentes niveles de participación y relación que pueden generarse entre la marca y el cliente.
+            p.text-center <b>Eje de la experiencia</b>: el consumidor ocupa el centro del <em>marketing</em> experiencial, ya que cada interacción, estímulo y punto de contacto influye en la forma en que vive, interpreta y recuerda la experiencia. Las dimensiones de la experiencia permiten comprender los diferentes niveles de participación y relación que pueden generarse entre la marca y el cliente.
           .bg-fondo-carrus.tarjeta.p-4.h-100.box-shadow
             img(src='@/assets/curso/tema3/14.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
             h4.text-center.mb-4 Participación pasiva
@@ -242,7 +242,7 @@
             p.text-center <b>Experiencia profunda</b>: la inmersión representa el mayor nivel de involucramiento del consumidor con la experiencia. En esta dimensión, participa activamente y establece una conexión emocional que favorece la recordación, el aprendizaje y la fidelización.
             p.text-center <b>Idea clave</b>: La inmersión genera experiencias memorables y fortalece la relación con la marca.
 
-      .col-md-8.col-lg-3.order-lg-1
+      .col-md-8.col-lg-3.order-1
         figure
           img(src='@/assets/curso/tema3/12.png', alt='Descripción de la13imagen')
 
@@ -251,10 +251,10 @@
         .bg-fondo-6.tarjeta.px-5.py-4
           p.mb-0 Las dimensiones de la experiencia permiten comprender los diferentes niveles de participación e involucramiento del consumidor durante su relación con la marca. Su aplicación facilita el diseño de estrategias orientadas a crear experiencias relevantes, memorables y coherentes con las expectativas del cliente, fortaleciendo el valor de la relación entre ambas partes.
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center
       .col-lg-10
         .bg-fondo-7.tarjeta.px-4
-          .row.mb-5.justify-content-center.align-items-center
+          .row.justify-content-center.align-items-center
             .col-auto.mb-lg-0
               figure
                 img.d-none.d-lg-flex(src="@/assets/curso/common/1.png", data-aos="zoom-in")
@@ -277,25 +277,25 @@
       .col-lg-8 
         p Las aplicaciones de los dominios de experiencia permiten llevar los conceptos y principios a contextos reales, facilitando el diseño de estrategias orientadas a generar experiencias significativas, estas aplicaciones se evidencian en diferentes sectores, donde las marcas utilizan los dominios para influir en la percepción y el comportamiento del consumidor. 
         .tarjeta.bg-fondo-6.h-100.p-4
-          p.mb-0 Las aplicaciones permiten adaptar los dominios de experiencia a diferentes entornos, como el entretenimiento, el retail o los servicios digitales, esto implica diseñar experiencias que respondan a las características del público objetivo, integrando participación, inmersión y conexión emocional. Veamos dos ejemplos:
+          p.mb-0 Las aplicaciones permiten adaptar los dominios de experiencia a diferentes entornos, como el entretenimiento, el <em>retail</em> o los servicios digitales, esto implica diseñar experiencias que respondan a las características del público objetivo, integrando participación, inmersión y conexión emocional. Veamos dos ejemplos:
     
     .row.justify-content-center.mb-5
-      .col-xl-5.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
+      .col-xl-5.col-lg-6.col-md-10.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema3/19.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Aplicación en retail (tienda de moda)
+            h4.mb-3 Aplicación en <em>retail</em> (tienda de moda)
             p.mb-0 Una marca de ropa diseña su punto de venta integrando diferentes dominios de experiencia. En la zona de exhibición, el cliente participa de manera pasiva observando las colecciones (absorción), mientras que en los probadores interactivos puede experimentar activamente con los productos (inmersión). Además, se incorporan estímulos sensoriales como iluminación y música que generan conexión emocional. Esta integración permite influir en la percepción del cliente, mejorar su experiencia y favorecer la decisión de compra.
     
-      .col-xl-5.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
+      .col-xl-5.col-lg-6.col-md-10.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema3/20.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Aplicación en entorno digital (plataforma de streaming)
+            h4.mb-3 Aplicación en entorno digital (plataforma de <em>streaming</em>)
             p.mb-0 Una plataforma digital estructura la experiencia del usuario a partir de los dominios de experiencia, combinando participación mediante la selección de contenidos, con momentos de absorción durante la visualización. A través de algoritmos personalizados, se genera una conexión emocional al ofrecer contenido alineado con los intereses del usuario. Esta aplicación permite adaptar la experiencia al comportamiento del consumidor, incrementando su permanencia, satisfacción y fidelización dentro de la plataforma.
 
     .row.justify-content-center

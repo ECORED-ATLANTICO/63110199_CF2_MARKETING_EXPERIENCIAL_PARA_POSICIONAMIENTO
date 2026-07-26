@@ -486,7 +486,7 @@
             p(data-aos="fade-left").mb-4 Lo invitamos a acceder al siguiente pódcast, cuyo contenido le permitirá fortalecer la temática relacionada con la gestión estratégica de experiencias.
             
             TarjetaAudio.color-primario.bg-color-white.mb-3(
-              texto="El ritmo de la cuenta T: Débitos, créditos y saldos"
+              texto="Gestión estratégica de experiencias"
               tiempo
               :audio="require('../assets/curso/podcast/podcast1.mp3')"
             )

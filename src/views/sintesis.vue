@@ -13,7 +13,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="La ilustración muestra la estructura jerárquica que sintetiza el contenido del componente formativo “Estrategia experiencial”, el cual se organiza en cinco unidades. Inicia con el capítulo uno abordando la temática de proveedores de experiencia, allí se abordan los conceptos de comunicación, identidad de marca, producto, empleados, entorno digital, cobranding y punto de venta. El capítulo dos, aborda matriz experiencial, en donde se ve concepto, elementos y características. El capítulo tres desarrolla dominios de experiencia, abordando las temáticas de conceptos, principios, dimensiones y aplicaciones. El capítulo cuatro desarrolla la temática de Storytelling, abordando su concepto, técnicas, características y elementos. El componente cierra con el capítulo de indicadores de gestión de mercadeo en el marketing experiencial, allí se aborda su concepto, objetivos, clases, y concluye con interpretación.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

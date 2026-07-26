@@ -17,38 +17,39 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema: 'Conceptos en marketing experiencial',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> verificar la comprensión de los conceptos, principios y aplicaciones del marketing experiencial mediante la identificación de afirmaciones verdaderas o falsas.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
-      titulo_reprobado: 'VUELVA A INTENTARLO.',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,
-          texto: 'PREGUNTA1',
+          texto:
+            '¿Qué proveedor fortalece principalmente interacción mediante mensajes coherentes entre marca y consumidor continuamente?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'OPCION2',
+              texto: 'Comunicación estratégica.',
               esCorrecta: true,
             },
             {
+              id: 'b',
+              texto: '<em>Cobranding</em> comercial.',
+              esCorrecta: false,
+            },
+            {
               id: 'c',
-              texto: 'OPCION3',
+              texto: 'Punto de venta.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'OPCION4',
+              texto: 'Producto funcional.',
               esCorrecta: false,
             },
           ],
@@ -57,28 +58,29 @@ export default {
         },
         {
           id: 2,
-          texto: 'PREGUNTA2',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          texto:
+            '¿Qué componente define valores, propósito y esencia de la marca estratégicamente?',
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'OPCION1',
+              texto: 'Identidad visual.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'OPCION2',
+              texto: 'Identidad conceptual.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'OPCION3',
+              texto: 'Identidad experiencial.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'OPCION4',
+              texto: 'Identidad comunicativa.',
               esCorrecta: false,
             },
           ],
@@ -87,28 +89,30 @@ export default {
         },
         {
           id: 3,
-          texto: 'PREGUNTA3',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          texto:
+            '¿Qué rol cumple el producto mediante estímulos sensoriales en experiencias memorables comerciales?',
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'OPCION1',
+              texto: 'Reducir interacción comercial.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'OPCION3',
+              texto: 'Sustituir comunicación estratégica.',
               esCorrecta: false,
             },
             {
+              id: 'c',
+              texto:
+                'Enriquecer la experiencia mediante estímulos sensoriales significativos.',
+              esCorrecta: true,
+            },
+            {
               id: 'd',
-              texto: 'OPCION4',
+              texto: 'Eliminar procesos de fidelización.',
               esCorrecta: false,
             },
           ],
@@ -117,29 +121,30 @@ export default {
         },
         {
           id: 4,
-          texto: 'PREGUNTA4',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          texto:
+            '¿Qué proveedor transforma valores corporativos mediante interacción directa entre empleados y consumidores diariamente?',
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'OPCION1',
+              texto: '<em>Cobranding</em> estratégico.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
+              texto: 'Entorno digital.',
+              esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'OPCION3',
+              texto: 'Identidad visual.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
+              texto: 'Empleados de la organización.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -147,28 +152,29 @@ export default {
         },
         {
           id: 5,
-          texto: 'PREGUNTA5',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto:
+            '¿Qué estrategia permite integrar dos marcas para crear experiencias conjuntas diferenciadas estratégicamente?',
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'OPCION2',
+              texto: '<em>Cobranding</em> estratégico.',
               esCorrecta: true,
             },
             {
+              id: 'b',
+              texto: '<em>Storytelling</em> corporativo.',
+              esCorrecta: false,
+            },
+            {
               id: 'c',
-              texto: 'OPCION3',
+              texto: 'Matriz experiencial.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'OPCION4',
+              texto: 'Dominio experiencial.',
               esCorrecta: false,
             },
           ],
@@ -177,28 +183,29 @@ export default {
         },
         {
           id: 6,
-          texto: 'PREGUNTA6',
+          texto:
+            '¿Qué herramienta organiza sistemáticamente elementos estratégicos durante diseño de experiencias memorables para consumidores?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'OPCION1',
+              texto: '<em>Storytelling</em> corporativo.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'OPCION2',
+              texto: 'Matriz experiencial.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'OPCION3',
+              texto: '<em>Cobranding</em> comercial.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'OPCION4',
+              texto: 'Identidad visual.',
               esCorrecta: false,
             },
           ],
@@ -207,28 +214,29 @@ export default {
         },
         {
           id: 7,
-          texto: 'PREGUNTA7',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto:
+            '¿Qué principio involucra activamente clientes fortaleciendo experiencias significativas durante interacción con marcas?',
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'OPCION1',
+              texto: 'Inmersión experiencial.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'OPCION2',
+              texto: 'Participación activa.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'OPCION3',
+              texto: 'Conexión emocional.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'OPCION4',
+              texto: 'Absorción cognitiva.',
               esCorrecta: false,
             },
           ],
@@ -237,28 +245,29 @@ export default {
         },
         {
           id: 8,
-          texto: 'PREGUNTA8',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto:
+            '¿Qué dimensión representa integración profunda del consumidor dentro experiencias?',
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'OPCION1',
+              texto: 'Participación pasiva.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'OPCION3',
+              texto: 'Absorción experiencial.',
               esCorrecta: false,
             },
             {
+              id: 'c',
+              texto: 'Inmersión experiencial.',
+              esCorrecta: true,
+            },
+            {
               id: 'd',
-              texto: 'OPCION4',
+              texto: 'Conexión estratégica.',
               esCorrecta: false,
             },
           ],
@@ -267,29 +276,30 @@ export default {
         },
         {
           id: 9,
-          texto: 'PREGUNTA9',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto:
+            '¿Qué aplicación utiliza dominios experienciales para fortalecer interacción durante eventos comerciales?',
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'OPCION1',
+              texto: 'Gestión contable empresarial.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
+              texto: 'Control financiero institucional.',
+              esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'OPCION3',
+              texto: 'Procesos administrativos internos.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
+              texto: 'Eventos experienciales organizados.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -297,28 +307,29 @@ export default {
         },
         {
           id: 10,
-          texto: 'PREGUNTA10',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto:
+            '¿Qué técnica <em>storytelling</em> busca involucrar consumidores?',
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'OPCION2',
+              texto: '<em>Storydoing</em> experiencial.',
               esCorrecta: true,
             },
             {
+              id: 'b',
+              texto: 'Narrativa conceptual.',
+              esCorrecta: false,
+            },
+            {
               id: 'c',
-              texto: 'OPCION3',
+              texto: 'Identidad visual.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'OPCION4',
+              texto: 'Comunicación funcional.',
               esCorrecta: false,
             },
           ],
@@ -327,19 +338,30 @@ export default {
         },
         {
           id: 11,
-          texto: 'PREGUNTA11',
+          texto:
+            '¿Qué característica <em>storytelling</em> fortalece credibilidad mediante historias coherentes con identidad organizacional?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Narrativa emocional.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Autenticidad comunicativa.',
               esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: '<em>Storydoing</em> estratégico.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Participación experiencial.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -347,18 +369,29 @@ export default {
         },
         {
           id: 12,
-          texto: 'PREGUNTA12',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto:
+            '¿Qué elemento del <em>storytelling</em> representa el protagonista principal dentro de la narrativa experiencial?',
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Conflicto narrativo.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Personaje principal.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Resolución estratégica.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Contexto comercial.',
               esCorrecta: false,
             },
           ],
@@ -367,18 +400,29 @@ export default {
         },
         {
           id: 13,
-          texto: 'PREGUNTA13',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          texto:
+            '¿Qué objetivo de los indicadores evalúa la percepción del cliente sobre experiencias organizacionales?',
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Fidelización comercial.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Interacción digital.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Satisfacción del cliente.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Ninguna de las anteriores.',
               esCorrecta: false,
             },
           ],
@@ -387,18 +431,29 @@ export default {
         },
         {
           id: 14,
-          texto: 'PREGUNTA14',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          texto:
+            '¿Qué tipo de indicador mide el cumplimiento de objetivos en estrategias experienciales organizacionales?',
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Indicador experiencial.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Indicador resultado.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Indicador eficiencia.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Indicador eficacia.',
               esCorrecta: true,
             },
           ],
@@ -407,18 +462,186 @@ export default {
         },
         {
           id: 15,
-          texto: 'PREGUNTA15',
+          texto:
+            '¿Qué proceso transforma los datos obtenidos en decisiones estratégicas para la organización?',
+          imagen: require('@/assets/actividad/imagen3.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Interpretación de indicadores.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: '<em>Storytelling</em> corporativo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Diseño experiencial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Participación inmersiva.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 16,
+          texto:
+            '¿Qué aspecto del punto de venta fortalece la percepción del cliente durante la experiencia?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Ambientación musical permanente.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Diseño del espacio comercial.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: '<em>Cobranding</em> promocional.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: '<em>Storydoing</em> experiencial.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 17,
+          texto:
+            '¿Qué componente de la identidad de marca fortalece el reconocimiento de la organización?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Identidad comunicativa.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Identidad experiencial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Identidad visual.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Identidad conceptual.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 18,
+          texto:
+            '¿Qué entorno facilita experiencias personalizadas mediante plataformas digitales para los consumidores?',
+          imagen: require('@/assets/actividad/imagen2.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Punto de venta físico.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Espacio administrativo interno.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Entorno digital corporativo.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Centro logístico empresarial.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 19,
+          texto:
+            '¿Qué componente de la matriz experiencial organiza la experiencia durante el recorrido del cliente?',
+          imagen: require('@/assets/actividad/imagen3.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Punto de contacto.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Dominio experiencial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Indicador estratégico.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Momento de interacción.',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 20,
+          texto:
+            '¿Qué beneficio estratégico aporta interpretar indicadores para mejorar la toma de decisiones organizacionales?',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Optimizar estrategias mediante análisis continuo del comportamiento y experiencia del cliente.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Eliminar procesos permanentes de evaluación comercial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Sustituir completamente acciones de posicionamiento empresarial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Reducir interacción entre organización y consumidores.',
               esCorrecta: false,
             },
           ],

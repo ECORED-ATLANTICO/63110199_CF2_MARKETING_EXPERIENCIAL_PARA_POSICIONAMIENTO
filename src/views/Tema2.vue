@@ -133,7 +133,7 @@
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-5
                         p.mb-0 <b>Resultado</b> = diseño completo de experiencia.
-              div(titulo="Ejemplo 2: Plataforma digital (<em>E-commerce</em>)")
+              div(titulo="Ejemplo 2. Plataforma digital (<em>E-commerce</em>)")
                 .titulo-sexto.color-acento-contenido
                   h5 Tabla 4.
                   span Matriz experiencial en entorno digital

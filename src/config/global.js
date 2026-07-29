@@ -34,122 +34,122 @@ export default {
         numero: '1',
         titulo: 'Proveedores de experiencia',
         desarrolloContenidos: true,
-        subMenu: {
-          1: {
+        subMenu: [
+          {
             numero: '1.1',
             titulo: 'Comunicación',
             hash: 't_1_1',
           },
-          2: {
+          {
             numero: '1.2',
             titulo: 'Identidad de marca',
             hash: 't_1_2',
           },
-          3: {
+          {
             numero: '1.3',
             titulo: 'Producto',
             hash: 't_1_3',
           },
-          4: {
+          {
             numero: '1.4',
             titulo: 'Empleados',
             hash: 't_1_4',
           },
-          5: {
+          {
             numero: '1.5',
             titulo: 'Entorno digital',
             hash: 't_1_5',
           },
-          6: {
+          {
             numero: '1.6',
             titulo: '<em>Cobranding</em>',
             hash: 't_1_6',
           },
-          7: {
+          {
             numero: '1.7',
             titulo: 'Punto de venta',
             hash: 't_1_7',
           },
-        },
+        ],
       },
       {
         nombreRuta: 'tema2',
         numero: '2',
         titulo: 'Matriz experiencial',
         desarrolloContenidos: true,
-        subMenu: {
-          1: {
+        subMenu: [
+          {
             numero: '2.1',
             titulo: 'Concepto',
             hash: 't_2_1',
           },
-          2: {
+          {
             numero: '2.2',
             titulo: 'Elementos',
             hash: 't_2_2',
           },
-          3: {
+          {
             numero: '2.3',
             titulo: 'Características',
             hash: 't_2_3',
           },
-        },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
         titulo: 'Dominios de experiencia',
         desarrolloContenidos: true,
-        subMenu: {
-          1: {
+        subMenu: [
+          {
             numero: '3.1',
             titulo: 'Conceptos',
             hash: 't_3_1',
           },
-          2: {
+          {
             numero: '3.2',
             titulo: 'Principios',
             hash: 't_3_2',
           },
-          3: {
+          {
             numero: '3.3',
             titulo: 'Dimensiones',
             hash: 't_3_3',
           },
-          4: {
+          {
             numero: '3.4',
             titulo: 'Aplicaciones',
             hash: 't_3_4',
           },
-        },
+        ],
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
         titulo: '<em>Storytelling</em>',
         desarrolloContenidos: true,
-        subMenu: {
-          1: {
+        subMenu: [
+          {
             numero: '4.1',
             titulo: 'Concepto',
             hash: 't_4_1',
           },
-          2: {
+          {
             numero: '4.2',
             titulo: 'Técnicas',
             hash: 't_4_2',
           },
-          3: {
+          {
             numero: '4.3',
             titulo: 'Características',
             hash: 't_4_3',
           },
-          4: {
+          {
             numero: '4.4',
             titulo: 'Elementos',
             hash: 't_4_4',
           },
-        },
+        ],
       },
       {
         nombreRuta: 'tema5',
@@ -157,28 +157,28 @@ export default {
         titulo:
           'Indicadores de gestión de mercadeo en el <em>marketing</em> experiencial',
         desarrolloContenidos: true,
-        subMenu: {
-          1: {
+        subMenu: [
+          {
             numero: '5.1',
             titulo: 'Concepto',
             hash: 't_5_1',
           },
-          2: {
+          {
             numero: '5.2',
             titulo: 'Objetivos',
             hash: 't_5_2',
           },
-          3: {
+          {
             numero: '5.3',
             titulo: 'Clases',
             hash: 't_5_3',
           },
-          4: {
+          {
             numero: '5.4',
             titulo: 'Interpretación',
             hash: 't_5_4',
           },
-        },
+        ],
       },
     ],
     subMenu: [
@@ -212,7 +212,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/63110199_CF02_DU.pdf',
+        download: 'downloads/63110199_CF02_DU.zip',
       },
       {
         icono: 'fas fa-download',

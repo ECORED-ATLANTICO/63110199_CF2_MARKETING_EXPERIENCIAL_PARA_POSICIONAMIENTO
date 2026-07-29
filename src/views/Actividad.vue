@@ -20,7 +20,7 @@ export default {
       tema: 'Conceptos en <em>marketing</em> experiencial',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> verificar la comprensión de los conceptos, principios y aplicaciones del <em>marketing</em> experiencial mediante la identificación de afirmaciones verdaderas o falsas.',
+        '<b> Objetivo:</b> verificar la comprensión de los conceptos, principios y aplicaciones del <em>marketing</em> experiencial.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',

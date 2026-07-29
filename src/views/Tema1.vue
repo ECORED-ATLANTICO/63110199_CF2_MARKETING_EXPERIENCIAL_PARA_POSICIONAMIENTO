@@ -74,10 +74,10 @@
                     ul.lista-ul--color.ms-3
                       li.mb-3.d-flex
                         i.fas.fa-caret-right.bg-color-5
-                        | Calidad.
+                        | Funcionalidad.
                       li.mb-3.d-flex
                         i.fas.fa-caret-right.bg-color-5
-                        | Diseño.
+                        | Beneficios.
                 h5 Idea clave
                 p.mb-0 Una comunicación clara y oportuna facilita decisiones de compra fundamentadas.
               .col-md-6.col-lg-3
@@ -395,8 +395,8 @@
     
     separador
     
-    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.1 <em>Cobranding</em>
+    #t_1_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 1.6 <em>Cobranding</em>
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0

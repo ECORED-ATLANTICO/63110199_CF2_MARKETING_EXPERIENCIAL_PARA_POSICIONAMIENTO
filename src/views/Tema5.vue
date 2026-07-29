@@ -260,7 +260,7 @@
             figure
               img(src="@/assets/curso/tema5/14.png", data-aos="zoom-in")
           .col-lg-8
-            p(data-aos="fade-left").mb-4 Lo invitamos a acceder al siguiente pódcast, cuyo contenido le permitirá fortalecer la temática relacionada con la gestión estratégica de experiencias.
+            p(data-aos="fade-left").mb-4 Lo invitamos a acceder al siguiente pódcast, cuyo contenido le permitirá fortalecer la temática relacionada con la gestión estratégica de indicadores.
             
             TarjetaAudio.color-primario.bg-color-white.mb-3(
               texto="Gestión estratégica de indicadores"

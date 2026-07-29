@@ -62,6 +62,8 @@
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
       h3.mb-0.pe-4.ps-2 Dominios de la experiencia en el <em>marketing</em> experiencial
     
+    p.mb-5 Los dominios de la experiencia representan los elementos que intervienen en la relación entre el consumidor y la marca. Aunque cada uno cumple una función específica, todos actúan de manera integrada para construir experiencias significativas que fortalecen la percepción, la satisfacción y la fidelización del cliente.
+
     .bg-fondo-slider.tarjeta.mb-5
       .p-4.p-lg-5
         SlyderA(tipo="b").bg-color-white.p-4.tarjeta
@@ -187,7 +189,7 @@
       h2 3.3 Dimensiones
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-md-8.mb-lg-0.order-2
+      .col-md-8.col-lg-3.mb-lg-0.order-2
         figure
           img(src="@/assets/curso/tema3/10.png", data-aos="zoom-in")
       .col-lg-9.order-1.col-lg-3.mb-3
@@ -213,6 +215,8 @@
     .bg-fondo-5.tarjeta.px-5.py-4.mb-5
       p.mb-0 Un ejemplo aplicado se encuentra en Universal Studios, donde los visitantes pueden observar espectáculos o participar activamente en atracciones inmersivas, integrando diferentes dimensiones de experiencia.
     
+    .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
+      h3.mb-0.pe-4.ps-2 Dimensiones de la experiencia del <em>marketing</em>
 
     .row.justify-content-center.align-items-center
       .col-lg-9.order-2.mb-3.mb-lg-0

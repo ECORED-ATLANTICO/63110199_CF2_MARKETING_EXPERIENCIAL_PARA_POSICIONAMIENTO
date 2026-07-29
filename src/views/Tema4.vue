@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema4/1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La matriz experiencial constituye una herramienta estratégica que permite estructurar y analizar las experiencias generadas por las marcas en el consumidor. 
+            p.mb-0 El <em>storytelling</em> constituye una herramienta estratégica en el <em>marketing</em> experiencial que permite construir conexiones emocionales a través de relatos significativos. 
 
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-4.mb-3.mb-lg-0.order-lg-2
@@ -22,7 +22,7 @@
               img(src="@/assets/curso/tema4/2.png", data-aos="zoom-in")
           .col-lg-8.order-lg-1
             .bg-fondo-4.tarjeta.px-5.py-4
-              p.mb-0 Este capítulo aborda su importancia en el diseño del <em>marketing</em> experiencial, permitiendo comprender cómo se organizan sus componentes. Su desarrollo se realizará desde un enfoque aplicado, integrando elementos conceptuales y prácticos que faciliten la construcción de experiencias coherentes, relevantes y alineadas con los objetivos estratégicos de posicionamiento de marca.
+              p.mb-0 Este capítulo aborda su importancia en la comunicación de marca, facilitando la transmisión de valores y experiencias. Su desarrollo se realizará desde un enfoque conceptual y aplicado, integrando técnicas y elementos que permiten diseñar narrativas coherentes, capaces de influir en la percepción, la recordación y el comportamiento del consumidor.
 
         separador
         
@@ -48,7 +48,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
                       h4.mb-3 ¿Qué es y cómo hacer un <em>storytelling</em>?
-                      p.mb-0 Lo invitamos a consultar el siguiente recurso educativo que lo ayudará a profundizar el concepto de Srorytelling y la importancia que tiene esta herramienta dentro del <em>marketing</em>. 
+                      p.mb-0 Lo invitamos a consultar el siguiente recurso educativo que lo ayudará a profundizar el concepto de <em>storytelling</em> y la importancia que tiene esta herramienta dentro del <em>marketing</em>. 
                     .col-sm-auto
                       a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=77TAn3GuKSg " target="_blank")
                         span Ir al video
@@ -70,7 +70,7 @@
               img(src="@/assets/curso/tema4/5.png", data-aos="zoom-in")
           .col-lg-7
             .bg-color-1.px-5.py-4
-              p.mb-0 Las técnicas de <em>storytelling</em> corresponden a los recursos utilizados para construir y comunicar historias de manera efectiva en el <em>marketing</em> experiencial, estas técnicas incluyen la narrativa emocional, el uso de testimonios, el <em>storytelling</em> transmedia y el storydoing, permitiendo generar experiencias que van más allá del mensaje y se convierten en vivencias para el consumidor.
+              p.mb-0 Las técnicas de <em>storytelling</em> corresponden a los recursos utilizados para construir y comunicar historias de manera efectiva en el <em>marketing</em> experiencial, estas técnicas incluyen la narrativa emocional, el uso de testimonios, el <em>storytelling</em> transmedia y el <em>storydoing</em>, permitiendo generar experiencias que van más allá del mensaje y se convierten en vivencias para el consumidor.
        
         .bg-fondo-7.tarjeta.px-4
           .row.justify-content-center.align-items-center

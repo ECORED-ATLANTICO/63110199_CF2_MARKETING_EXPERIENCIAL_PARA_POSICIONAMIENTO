@@ -51,8 +51,8 @@
                       p.mb-0 Lo invitamos a consultar el siguiente recurso educativo que lo ayudará a profundizar el concepto de <em>storytelling</em> y la importancia que tiene esta herramienta dentro del <em>marketing</em>. 
                     .col-sm-auto
                       a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=77TAn3GuKSg " target="_blank")
-                        span Ir al video
-                        i.fas.fa-file-download
+                        span Consultar video
+                        i.fas.fa-video
     
     separador
     

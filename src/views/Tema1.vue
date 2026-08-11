@@ -375,11 +375,11 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-3 Concepto de entorno digital
-                  p.mb-0 Lo invitamos a consultar el siguiente recurso educativo para fortalecer sus conocimientos. Éste presenta el concepto de entorno digital dentro del contexto del <em>marketing</em>.
+                  p.mb-0 Lo invitamos a consultar el siguiente recurso educativo para fortalecer sus conocimientos. Este presenta el concepto de entorno digital dentro del contexto del <em>marketing</em>.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=CwqginzSkeU " target="_blank")
-                    span Ir al video
-                    i.fas.fa-file-download
+                    span Consultar video
+                    i.fas.fa-video
     
     .row.justify-content-center.mb-5
       .col-lg-10

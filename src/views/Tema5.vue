@@ -242,14 +242,14 @@
         .tarjeta.bg-color-10.p-4.mb-5
           .row.justify-content-around.align-items-center
             .col-auto
-              img.d-none.d-md-block(src="@/assets/curso/common/4.svg")
+              img.d-none.d-md-block(src="@/assets/curso/common/7.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-3 Interpretación de indicadores en <em>marketing</em> experiencial
+                  h4.mb-3 Caso práctico. Interpretación de indicadores en <em>marketing</em> experiencial
                   p.mb-0 Lo invitamos a consultar el anexo del caso de una tienda de ropa que implementa una estrategia de <em>marketing</em> experiencial en su punto de venta.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo1.pdf')" target="_blank" type="application/pdf")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/MARKETING_EXPERIENCIAL_PARA_POSICIONAMIENTO.pdf')" target="_blank" type="application/pdf")
                     span Ir al anexo
                     i.fas.fa-file-download
     

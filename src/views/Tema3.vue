@@ -42,8 +42,8 @@
                       p.mb-0 Lo invitamos a consultar el siguiente recurso educativo para profundizar sobre la economía de la experiencia. En él se evidencia cómo las experiencias pueden variar según el nivel de participación del consumidor y su conexión emocional, elementos fundamentales para su diseño y análisis en el <em>marketing</em> experiencial.
                     .col-sm-auto
                       a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=1vbo3ukK_UE  " target="_blank")
-                        span Ir al video
-                        i.fas.fa-file-download
+                        span Consultar video
+                        i.fas.fa-video
     
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-4.mb-3.mb-lg-0

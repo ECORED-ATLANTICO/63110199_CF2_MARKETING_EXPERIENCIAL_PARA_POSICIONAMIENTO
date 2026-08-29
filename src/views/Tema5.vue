@@ -38,18 +38,18 @@
         #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 5.1 Concepto
         
-        img(src="@/assets/curso/tema5/3.png", alt="Imagen decorativa")
+        img(src="@/assets/curso/tema5/3.png", alt="")
         
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-10(data-aos="fade-up")
-            p.banner-text Los indicadores de gestión en <em>marketing</em> experiencial se definen como herramientas que permiten medir y evaluar el impacto de las experiencias diseñadas por la marca en el consumidor, estos indicadores facilitan la interpretación de resultados, permitiendo analizar cómo las estrategias influyen en la percepción, la interacción y el comportamiento del cliente.
+            p.banner-text Los indicadores de gestión en <em>marketing</em> experiencial se definen como herramientas que permiten medir y evaluar el impacto de las experiencias diseñadas por la marca en el consumidor; estos indicadores facilitan la interpretación de resultados, permitiendo analizar cómo las estrategias influyen en la percepción, la interacción y el comportamiento del cliente.
         
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-4.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema5/4.png", data-aos="zoom-in")
           .col-lg-8 
-            p Los indicadores permiten transformar la experiencia en datos medibles, facilitando la toma de decisiones orientadas a mejorar la efectividad de las acciones de <em>marketing</em>, esto implica identificar qué aspectos de la experiencia generan valor y cuáles requieren ajustes. 
+            p Los indicadores permiten transformar la experiencia en datos medibles, facilitando la toma de decisiones orientadas a mejorar la efectividad de las acciones de <em>marketing</em>; esto implica identificar qué aspectos de la experiencia generan valor y cuáles requieren ajustes. 
             .tarjeta.bg-fondo-6.h-100.p-4
               p.mb-0 Un ejemplo aplicado es Amazon, que mide la experiencia del cliente a través de indicadores como satisfacción, tiempo de respuesta y tasa de recompra, optimizando continuamente sus procesos.
     
@@ -62,7 +62,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema5/5.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema5/5.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Medición: recolección y evaluación de información
               p La medición consiste en recopilar datos sobre el desempeño de las estrategias de <em>marketing</em> experiencial mediante indicadores previamente definidos. Esta información permite conocer el comportamiento de variables como la satisfacción del cliente, la participación, la interacción o la fidelización, proporcionando una base objetiva para evaluar los resultados obtenidos y orientar las siguientes etapas del proceso.
@@ -71,7 +71,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema5/6.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema5/6.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Análisis: interpretación de los resultados
               p El análisis consiste en organizar e interpretar la información obtenida durante la medición para identificar patrones, tendencias, fortalezas y oportunidades de mejora. Esta etapa transforma los datos en conocimiento útil, facilitando la comprensión del comportamiento del consumidor y el desempeño de las estrategias desarrolladas.
@@ -80,7 +80,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema5/7.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema5/7.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Decisión: definición de acciones de mejora
               p A partir de los resultados del análisis, la organización establece las acciones necesarias para fortalecer las estrategias de <em>marketing</em> experiencial. Las decisiones pueden orientarse al ajuste de procesos, la optimización de experiencias, la incorporación de nuevas acciones o la redefinición de objetivos, buscando generar mayor valor para el cliente y para la organización.
@@ -89,7 +89,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema5/8.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema5/8.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Control: seguimiento y mejora continua
               p El control corresponde al monitoreo permanente de los resultados obtenidos después de implementar las acciones de mejora. Esta etapa permite verificar el cumplimiento de los objetivos, evaluar la efectividad de las decisiones adoptadas y realizar los ajustes necesarios para fortalecer el desempeño de las estrategias y asegurar un proceso de mejora continua.
@@ -111,10 +111,10 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema5/9.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Los objetivos de los indicadores de gestión en <em>marketing</em> experiencial se orientan a evaluar el desempeño de las estrategias implementadas, permitiendo identificar su impacto en el consumidor, estos objetivos incluyen medir la satisfacción, la fidelización, la interacción y el posicionamiento de la marca. 
+            p.mb-0 Los objetivos de los indicadores de gestión en <em>marketing</em> experiencial se orientan a evaluar el desempeño de las estrategias implementadas, permitiendo identificar su impacto en el consumidor; estos objetivos incluyen medir la satisfacción, la fidelización, la interacción y el posicionamiento de la marca. 
     
     .bg-fondo-4.tarjeta.px-5.py-4.mb-5
-      p.mb-0 Los indicadores permiten alinear las acciones de <em>marketing</em> con los resultados esperados, facilitando la optimización de las experiencias diseñadas, esto implica establecer métricas claras que permitan evaluar el cumplimiento de los objetivos organizacionales.
+      p.mb-0 Los indicadores permiten alinear las acciones de <em>marketing</em> con los resultados esperados, facilitando la optimización de las experiencias diseñadas; esto implica establecer métricas claras que permitan evaluar el cumplimiento de los objetivos organizacionales.
     
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
       h3.mb-0.pe-4.ps-2 Objetivos de los indicadores de gestión en <em>marketing</em> experiencial 
@@ -169,9 +169,9 @@
         figure
           img(src="@/assets/curso/tema5/11.png", data-aos="zoom-in")
       .col-lg-8 
-        p Las clases de indicadores en el <em>marketing</em> experiencial se refieren a los diferentes tipos de métricas utilizadas para evaluar el desempeño de las estrategias, estas clases permiten analizar distintos aspectos de la experiencia del cliente, incluyendo resultados cuantitativos y cualitativos que reflejan su percepción y comportamiento.
+        p Las clases de indicadores en el <em>marketing</em> experiencial se refieren a los diferentes tipos de métricas utilizadas para evaluar el desempeño de las estrategias; estas clases permiten analizar distintos aspectos de la experiencia del cliente, incluyendo resultados cuantitativos y cualitativos que reflejan su percepción y comportamiento.
         .tarjeta.bg-fondo-6.h-100.p-4
-          p.mb-0 Los indicadores pueden clasificarse en indicadores de eficiencia, eficacia y experiencia, los primeros miden el uso de recursos, los segundos evalúan el cumplimiento de objetivos y los terceros analizan la percepción del cliente frente a la experiencia vivida.
+          p.mb-0 Los indicadores pueden clasificarse en indicadores de eficiencia, eficacia y experiencia; los primeros miden el uso de recursos, los segundos evalúan el cumplimiento de objetivos y los terceros analizan la percepción del cliente frente a la experiencia vivida.
     
     .row.justify-content-center
       .col-lg-12
@@ -223,11 +223,11 @@
     #t_5_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.4 Interpretación
     
-    img(src="@/assets/curso/tema5/12.png", alt="Imagen decorativa")
+    img(src="@/assets/curso/tema5/12.png", alt="")
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text La interpretación de los indicadores en <em>marketing</em> experiencial consiste en el análisis de los datos obtenidos para comprender el impacto de las estrategias en el consumidor, este proceso permite transformar la información en conocimiento útil para la toma de decisiones.
+        p.banner-text La interpretación de los indicadores en <em>marketing</em> experiencial consiste en el análisis de los datos obtenidos para comprender el impacto de las estrategias en el consumidor; este proceso permite transformar la información en conocimiento útil para la toma de decisiones.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -235,7 +235,7 @@
           img(src="@/assets/curso/tema5/13.png", data-aos="zoom-in")
       .col-lg-8
         .bg-fondo-4.tarjeta.px-5.py-4
-          p.mb-0 La interpretación implica identificar tendencias, relaciones y oportunidades de mejora, estableciendo conexiones entre los resultados obtenidos y las acciones implementadas, esto permite ajustar las estrategias para optimizar la experiencia del cliente y mejorar el desempeño organizacional.
+          p.mb-0 La interpretación implica identificar tendencias, relaciones y oportunidades de mejora, estableciendo conexiones entre los resultados obtenidos y las acciones implementadas; esto permite ajustar las estrategias para optimizar la experiencia del cliente y mejorar el desempeño organizacional.
     
     .row.justify-content-center.mb-3
       .col-lg-10

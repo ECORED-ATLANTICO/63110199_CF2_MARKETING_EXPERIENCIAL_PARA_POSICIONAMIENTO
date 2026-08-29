@@ -369,30 +369,36 @@ export default {
   referencias: [
     {
       referencia:
-        'Álvarez Sigüenza, J. F. (2024). <em>Los segmentos del marketing: análisis, definición y tipos</em>. RAE-IC, Revista de la Asociación Española de Investigación de la Comunicación, 11(21).',
+        'ESIC Business & Marketing School. (en el blog "Rethink") (2025). Net Promoter Score (NPS): ¿Qué es y cómo calcularlo? ',
       link:
-        'https://rodin.uca.es/bitstream/handle/10498/31668/Segmentacio_n%20de%20mercado.pdf?sequence=4',
+        'https://www.esic.edu/rethink/marketing-y-comunicacion/net-promoter-score-nps-c',
     },
     {
       referencia:
-        'Kotler, P., & Armstrong, G. (2017). <em>Segmentación, mercado meta y posicionamiento</em>. Pearson.',
+        'Marketing Zone Icesi. (19 de enero de 2022). Marketing experiencial. El nuevo tipo de marketing que utilizan las PYMES. ',
+      link: 'https://www.icesi.edu.co/marketingzone/7320-2/',
+    },
+    {
+      referencia:
+        'Kotler, P., & Armstrong, G. (2017). Segmentación, mercado meta y posicionamiento. Pearson.',
       link: '',
     },
     {
       referencia:
-        'Niño Sierra, D. F. (s.f.). <em>Fidelización del cliente</em>. Fundación Universitaria de la Cámara de Comercio de Bogotá UNIEMPRESARIAL.',
+        'Niño Sierra, D. F. (s.f.). Fidelización del cliente. Fundación Universitaria de la Cámara de Comercio de Bogotá UNIEMPRESARIAL.',
       link:
         'https://bibliotecadigital.ccb.org.co/server/api/core/bitstreams/a4b5d64d-a649-4170-8d61-6b8b400e6dbd/content',
     },
     {
       referencia:
-        'Solomon, M. R. (2018). <em>Comportamiento del consumidor: Comprando, poseyendo y siendo</em> (12ª ed.). Pearson Educación.',
-      link: '',
+        'Obeso, M. (8 de marzo de 2016). Dominio experiencial [Diapositivas de PowerPoint]. Prezi.',
+      link: ' https://prezi.com/28odt_5dwgty/dominio-experiencial/',
     },
     {
       referencia:
-        'Universidad Nacional Autónoma de México. (2020). <em>El entorno del marketing</em>. UNAM.',
-      link: '',
+        'Pérez, J. (2023). Análisis de las estrategias de marketing digital en México [Tesis de Licenciatura, Universidad Nacional Autónoma de México]. Repositorio Institucional UNAM. ',
+      link:
+        'https://ru.dgb.unam.mx/bitstreams/b76f9149-62c2-4180-bbf9-296e1665fe2c/download',
     },
   ],
   creditos: [
@@ -422,7 +428,7 @@ export default {
         },
         {
           nombre: 'María Fernanda Morales Angulo ',
-          cargo: 'Evaluador instruccional ',
+          cargo: 'Evaluadora instruccional ',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico   ',
         },
       ],
@@ -457,12 +463,12 @@ export default {
       autores: [
         {
           nombre: 'Luz Karime Amaya Cabra ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles ',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles ',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
         },
         {
           nombre: 'Laura Daniela Burgos Rueda  ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles ',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles ',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
         },
         {
@@ -472,7 +478,7 @@ export default {
         },
         {
           nombre: 'Karine Isabel Ospino Fritz ',
-          cargo: 'Validador y vinculador de recursos educativos digitales ',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales ',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
         },
       ],

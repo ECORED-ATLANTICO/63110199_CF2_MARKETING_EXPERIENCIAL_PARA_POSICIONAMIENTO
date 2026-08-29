@@ -43,7 +43,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.2 Elementos
     
-    p Los elementos de la matriz experiencial corresponden a los componentes que permiten estructurar la experiencia del cliente, integrando factores sensoriales, emocionales, cognitivos y conductuales, estos elementos interactúan entre sí, configurando la percepción global del consumidor frente a la marca.
+    p Los elementos de la matriz experiencial corresponden a los componentes que permiten estructurar la experiencia del cliente, integrando factores sensoriales, emocionales, cognitivos y conductuales; estos elementos interactúan entre sí, configurando la percepción global del consumidor frente a la marca.
 
     .bg-full-width.bg-fondo-interno
       .px-4.px-lg-5
@@ -53,19 +53,19 @@
               img(src="@/assets/curso/tema2/4.png", data-aos="zoom-in")
           .col-lg-9
             .bg-fondo-7.px-5.py-4.mb-3
-              p.mb-0 Es fundamental identificar y gestionar cada uno de estos elementos, asegurando su coherencia y alineación con la propuesta de valor, esto implica diseñar experiencias que consideren tanto los estímulos que recibe el cliente como las respuestas que estos generan en su comportamiento. Una matriz experiencial cruza dos aspectos:
+              p.mb-0 Es fundamental identificar y gestionar cada uno de estos elementos, asegurando su coherencia y alineación con la propuesta de valor; esto implica diseñar experiencias que consideren tanto los estímulos que recibe el cliente como las respuestas que estos generan en su comportamiento. Una matriz experiencial cruza dos aspectos:
             .row
               .col-lg-6.mb-3.mb-lg-0
                 .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-up")
                   .tarjeta-avatar-b__img
-                    img(src='@/assets/curso/tema2/5.png' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/5.png' alt='')
                   .tarjeta.bg-fondo-avt.h-100
                     .p-3
                       p.mb-0 <b>Filas</b>: puntos de contacto o etapas del cliente.
               .col-lg-6.mb-3.mb-lg-0
                 .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-down")
                   .tarjeta-avatar-b__img
-                    img(src='@/assets/curso/tema2/6.png' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/6.png' alt='')
                   .tarjeta.bg-fondo-avt.h-100
                     .p-3
                       p.mb-0 <b>Columnas</b>: elementos de la experiencia (sensorial, emocional, cognitivo, conductual).
@@ -203,7 +203,7 @@
               img(src="@/assets/curso/tema2/8.png", data-aos="zoom-in")
           .col-lg-7
             .bg-color-1.px-5.py-4
-              p.mb-0 Las características de la matriz experiencial se orientan a su capacidad de integrar diferentes dimensiones del <em>marketing</em> experiencial en un solo esquema estratégico, esta herramienta se distingue por su enfoque holístico, permitiendo analizar la experiencia del cliente de manera integral, considerando factores sensoriales, emocionales, cognitivos y conductuales en conjunto. 
+              p.mb-0 Las características de la matriz experiencial se orientan a su capacidad de integrar diferentes dimensiones del <em>marketing</em> experiencial en un solo esquema estratégico; esta herramienta se distingue por su enfoque holístico, permitiendo analizar la experiencia del cliente de manera integral, considerando factores sensoriales, emocionales, cognitivos y conductuales en conjunto. 
        
         .bg-fondo-7.tarjeta.px-4
           .row.justify-content-center.align-items-center
@@ -211,7 +211,7 @@
               figure
                 img.d-none.d-lg-flex(src="@/assets/curso/common/1.png", data-aos="zoom-in")
             .col-lg.p-4.p-lg-0
-              p.mb-0(data-aos="fade-right") La matriz experiencial se caracteriza por ser flexible, adaptable y centrada en el cliente, lo que facilita su implementación en distintos contextos organizacionales, esta flexibilidad permite a las empresas ajustar sus estrategias según las necesidades del mercado y el comportamiento del consumidor, garantizando experiencias relevantes y coherentes.
+              p.mb-0(data-aos="fade-right") La matriz experiencial se caracteriza por ser flexible, adaptable y centrada en el cliente, lo que facilita su implementación en distintos contextos organizacionales. Esta flexibilidad permite a las empresas ajustar sus estrategias según las necesidades del mercado y el comportamiento del consumidor, garantizando experiencias relevantes y coherentes.
             .col-auto.mb-lg-0
               figure
                 img.d-none.d-lg-flex(src="@/assets/curso/common/5.svg", data-aos="zoom-in")
@@ -225,7 +225,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/9.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/9.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Integral para una visión completa de la experiencia
               p La matriz experiencial analiza de manera integrada todos los elementos que intervienen en la experiencia del cliente. Para ello, considera los diferentes puntos de contacto, las emociones, los estímulos y las interacciones que influyen en la percepción del consumidor, facilitando una comprensión global de la experiencia.
@@ -234,7 +234,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/10.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/10.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Flexible para la adaptación al contexto
               p La matriz experiencial puede ajustarse a las características de cada organización, del mercado y de los diferentes perfiles de consumidores. Esta flexibilidad permite adaptar las estrategias a las necesidades del entorno, los cambios del mercado y las expectativas de los clientes, favoreciendo experiencias más pertinentes.
@@ -243,7 +243,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/11.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/11.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Estratégica orientada a objetivos
               p La matriz experiencial organiza la información para que las acciones de <em>marketing</em> respondan a objetivos claramente definidos. Su aplicación facilita alinear el diseño de experiencias con el posicionamiento de la marca, la fidelización de clientes y la generación de valor para la organización.
@@ -252,7 +252,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/12.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/12.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Centrada en el cliente con enfoque en necesidades
               p La matriz experiencial sitúa al cliente como eje de la estrategia, considerando sus necesidades, expectativas, emociones y comportamientos durante cada interacción con la marca. Este enfoque permite diseñar experiencias más relevantes, fortalecer la satisfacción y construir relaciones de largo plazo.

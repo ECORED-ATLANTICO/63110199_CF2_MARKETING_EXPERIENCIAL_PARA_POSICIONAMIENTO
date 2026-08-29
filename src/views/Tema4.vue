@@ -34,9 +34,9 @@
             figure
               img(src="@/assets/curso/tema4/3.png", data-aos="zoom-in")
           .col-lg-8 
-            p El <em>storytelling</em> en <em>marketing</em> se define como la construcción de relatos que permiten a las marcas comunicar su propósito, valores y propuesta de valor de manera significativa, a diferencia de la comunicación tradicional, el <em>storytelling</em> se centra en generar conexión emocional, utilizando historias que faciliten la identificación del consumidor con la marca. 
+            p El <em>storytelling</em> en <em>marketing</em> se define como la construcción de relatos que permiten a las marcas comunicar su propósito, valores y propuesta de valor de manera significativa; a diferencia de la comunicación tradicional, el <em>storytelling</em> se centra en generar conexión emocional, utilizando historias que faciliten la identificación del consumidor con la marca. 
             .tarjeta.bg-fondo-6.h-100.p-4
-              p.mb-0 El <em>storytelling</em> permite estructurar mensajes que trascienden lo informativo, convirtiéndose en experiencias narrativas que influyen en la percepción del consumidor, estas narrativas facilitan la recordación y fortalecen el posicionamiento, al generar vínculos emocionales que permanecen en el tiempo.
+              p.mb-0 El <em>storytelling</em> permite estructurar mensajes que trascienden lo informativo, convirtiéndose en experiencias narrativas que influyen en la percepción del consumidor; estas narrativas facilitan la recordación y fortalecen el posicionamiento, al generar vínculos emocionales que permanecen en el tiempo.
 
         .row.justify-content-center
           .col-lg-10
@@ -48,7 +48,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
                       h4.mb-3 ¿Qué es y cómo hacer un <em>storytelling</em>?
-                      p.mb-0 Lo invitamos a consultar el siguiente recurso educativo que lo ayudará a profundizar el concepto de <em>storytelling</em> y la importancia que tiene esta herramienta dentro del <em>marketing</em>. 
+                      p.mb-0 Lo invitamos a consultar el siguiente recurso educativo que lo ayudará a profundizar en el concepto de <em>storytelling</em> y la importancia que tiene esta herramienta dentro del <em>marketing</em>. 
                     .col-sm-auto
                       a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=77TAn3GuKSg " target="_blank")
                         span Consultar video
@@ -70,7 +70,7 @@
               img(src="@/assets/curso/tema4/5.png", data-aos="zoom-in")
           .col-lg-7
             .bg-color-1.px-5.py-4
-              p.mb-0 Las técnicas de <em>storytelling</em> corresponden a los recursos utilizados para construir y comunicar historias de manera efectiva en el <em>marketing</em> experiencial, estas técnicas incluyen la narrativa emocional, el uso de testimonios, el <em>storytelling</em> transmedia y el <em>storydoing</em>, permitiendo generar experiencias que van más allá del mensaje y se convierten en vivencias para el consumidor.
+              p.mb-0 Las técnicas de <em>storytelling</em> corresponden a los recursos utilizados para construir y comunicar historias de manera efectiva en el <em>marketing</em> experiencial; estas técnicas incluyen la narrativa emocional, el uso de testimonios, el <em>storytelling</em> transmedia y el <em>storydoing</em>, permitiendo generar experiencias que van más allá del mensaje y se convierten en vivencias para el consumidor.
        
         .bg-fondo-7.tarjeta.px-4
           .row.justify-content-center.align-items-center
@@ -78,7 +78,7 @@
               figure
                 img.d-none.d-lg-flex(src="@/assets/curso/common/1.png", data-aos="zoom-in")
             .col-lg.p-4.p-lg-0
-              p.mb-0(data-aos="fade-right") Las técnicas permiten adaptar la narrativa al canal, al público y al contexto, asegurando que la historia sea relevante y genere impacto, esto implica seleccionar la forma adecuada de contar la historia para maximizar la conexión emocional y la recordación.
+              p.mb-0(data-aos="fade-right") Las técnicas permiten adaptar la narrativa al canal, al público y al contexto, asegurando que la historia sea relevante y genere impacto; esto implica seleccionar la forma adecuada de contar la historia para maximizar la conexión emocional y la recordación.
             .col-auto.mb-lg-0
               figure
                 img.d-none.d-lg-flex(src="@/assets/curso/common/5.svg", data-aos="zoom-in")
@@ -99,7 +99,7 @@
             tbody
               tr.bg-color-sintesis
                 td.text-bold Narrativa emocional
-                td La narrativa emocional utiliza historias que despiertan sentimientos en el consumidor, generando conexión afectiva y fortaleciendo la recordación de la marca en tiempo.
+                td La narrativa emocional utiliza historias que despiertan sentimientos en el consumidor, generando conexión afectiva y fortaleciendo la recordación de la marca en el tiempo.
                 td Una marca cuenta historias de superación personal que conectan emocionalmente con el consumidor y fortalecen su vínculo con la marca.
               tr.bg-color-white
                 td.text-bold Testimonios
@@ -133,7 +133,7 @@
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.3 Características
     
-    p Las características del <em>storytelling</em> en <em>marketing</em> experiencial se centran en su capacidad de generar conexión emocional, transmitir mensajes significativos y facilitar la recordación de la marca, estas características permiten que las historias no solo comuniquen información, sino que construyan experiencias que impactan al consumidor de manera profunda.
+    p Las características del <em>storytelling</em> en <em>marketing</em> experiencial se centran en su capacidad de generar conexión emocional, transmitir mensajes significativos y facilitar la recordación de la marca; estas características permiten que las historias no solo comuniquen información, sino que construyan experiencias que impactan al consumidor de manera profunda.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.mb-3.mb-lg-0
@@ -141,7 +141,7 @@
           img(src="@/assets/curso/tema4/6.png", data-aos="zoom-in")
       .col-lg-9
         .bg-fondo-4.tarjeta.px-5.py-4
-          p.mb-0 El <em>storytelling</em> se caracteriza por ser coherente, auténtico y relevante para el público objetivo, esto implica que las historias deben alinearse con la identidad de la marca y responder a las expectativas del consumidor, garantizando una narrativa creíble y significativa.
+          p.mb-0 El <em>storytelling</em> se caracteriza por ser coherente, auténtico y relevante para el público objetivo; esto implica que las historias deben alinearse con la identidad de la marca y responder a las expectativas del consumidor, garantizando una narrativa creíble y significativa.
     
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
       h3.mb-0.pe-4.ps-2 Características del <em>storytelling</em>
@@ -152,7 +152,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema4/7.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema4/7.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Dimensión emocional
               p El <em>storytelling</em> busca generar una conexión emocional entre la marca y el consumidor mediante historias que despiertan sentimientos, transmiten experiencias y favorecen la identificación con el mensaje. Una narrativa emocional fortalece la recordación y hace que la experiencia sea más significativa.
@@ -161,7 +161,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema4/8.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema4/8.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Dimensión coherente
               p Un <em>storytelling</em> efectivo mantiene coherencia entre la historia, la identidad, los valores y el propósito de la marca. Cada mensaje debe transmitir una narrativa consistente en todos los puntos de contacto, fortaleciendo la confianza y el reconocimiento por parte del consumidor.
@@ -170,7 +170,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema4/9.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema4/9.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Dimensión auténtica
               p El <em>storytelling</em> debe construirse a partir de historias reales o situaciones que reflejen la esencia de la marca. La autenticidad favorece la credibilidad, fortalece la relación con el consumidor y contribuye a establecer vínculos basados en la confianza.
@@ -179,7 +179,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema4/10.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema4/10.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Dimensión relevante
               p La historia debe responder a los intereses, necesidades y contexto del público objetivo. Cuando el contenido resulta pertinente para el consumidor, aumenta su capacidad para captar la atención, generar identificación y favorecer una comunicación más efectiva.
@@ -209,24 +209,24 @@
       .col-lg-8.order-lg-2
         SlyderF(columnas="col-12 col-lg-6").p-3.p-lg-4
           .bg-fondo-carrus.tarjeta.p-4.h-100.box-shadow
-            img(src='@/assets/curso/tema4/12.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
+            img(src='@/assets/curso/tema4/12.svg' alt='' , style="max-width: 90px").mx-auto.mb-3
             h4.text-center.mb-4 Personajes
             p.text-center Son el eje central de la historia y representan valores con los que la audiencia se identifica.
           .bg-fondo-carrus.tarjeta.p-4.h-100.box-shadow
-            img(src='@/assets/curso/tema4/13.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
+            img(src='@/assets/curso/tema4/13.svg' alt='' , style="max-width: 90px").mx-auto.mb-3
             h4.text-center.mb-4 Trama
             p.text-center Secuencia de eventos que construyen la historia y generan interés.
           .bg-fondo-carrus.tarjeta.p-4.h-100.box-shadow
-            img(src='@/assets/curso/tema4/14.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
+            img(src='@/assets/curso/tema4/14.svg' alt='' , style="max-width: 90px").mx-auto.mb-3
             h4.text-center.mb-4 Conflicto
             p.text-center Problema que da sentido a la narrativa y permite captar la atención.
           .bg-fondo-carrus.tarjeta.p-4.h-100.box-shadow
-            img(src='@/assets/curso/tema4/15.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
+            img(src='@/assets/curso/tema4/15.svg' alt='' , style="max-width: 90px").mx-auto.mb-3
             h4.text-center.mb-4 Mensaje
             p.text-center Idea clave que se busca transmitir.
       .col-md-8.col-lg-4.order-lg-1
         figure
-          img(src='@/assets/curso/tema4/11.png', alt='Descripción de la13imagen')
+          img(src='@/assets/curso/tema4/11.png', alt='')
     
     p.mb-5 Veamos dos ejemplos para ilustrar la aplicación de estos elementos:
 

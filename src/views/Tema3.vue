@@ -207,7 +207,7 @@
               figure
                 img.d-none.d-lg-flex(src="@/assets/curso/common/1.png", data-aos="zoom-in")
             .col-lg.p-4.p-lg-0
-              p.mb-0(data-aos="fade-right") Las dimensiones se estructuran en torno a la participación del cliente y el tipo de conexión que establece con la experiencia, esto permite diseñar experiencias que pueden ir desde la observación hasta la inmersión total, adaptándose a diferentes perfiles de consumidores y contextos de mercado.
+              p.mb-0(data-aos="fade-right") Las dimensiones se estructuran en torno a la participación del cliente y el tipo de conexión que establece con la experiencia; esto permite diseñar experiencias que pueden ir desde la observación hasta la inmersión total, adaptándose a diferentes perfiles de consumidores y contextos de mercado.
             .col-auto.mb-lg-0
               figure
                 img.d-none.d-lg-flex(src="@/assets/curso/common/5.svg", data-aos="zoom-in")
@@ -300,7 +300,7 @@
               img(src="@/assets/curso/tema3/20.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Aplicación en entorno digital (plataforma de <em>streaming</em>)
-            p.mb-0 Una plataforma digital estructura la experiencia del usuario a partir de los dominios de experiencia, combinando participación mediante la selección de contenidos; con momentos de absorción durante la visualización. A través de algoritmos personalizados, se genera una conexión emocional al ofrecer contenido alineado con los intereses del usuario. Esta aplicación permite adaptar la experiencia al comportamiento del consumidor, incrementando su permanencia, satisfacción y fidelización dentro de la plataforma.
+            p.mb-0 Una plataforma digital estructura la experiencia del usuario a partir de los dominios de experiencia, combinando participación mediante la selección de contenidos con momentos de absorción durante la visualización. A través de algoritmos personalizados, se genera una conexión emocional al ofrecer contenido alineado con los intereses del usuario. Esta aplicación permite adaptar la experiencia al comportamiento del consumidor, incrementando su permanencia, satisfacción y fidelización dentro de la plataforma.
 
     .row.justify-content-center
       .col-lg-10
